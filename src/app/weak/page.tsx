@@ -58,6 +58,7 @@ export default function WeakPage() {
   );
   const [loading, setLoading] = useState(true);
   const [subjectFilter, setSubjectFilter] = useState<string[]>([]);
+  const [topicFilter, setTopicFilter] = useState<string[]>([]);
   const [mode, setMode] = useState<"review" | "test">("review");
   const [testIndex, setTestIndex] = useState(0);
   const [testSelected, setTestSelected] = useState<Record<string, string>>({});
@@ -119,13 +120,51 @@ export default function WeakPage() {
     );
   }, [resolved]);
 
-  const filtered = useMemo(() => {
-    return resolved.filter(
-      (item) =>
-        !subjectFilter.length ||
-        subjectFilter.includes(item.question.subject || "Unknown")
+  /** Topics available for current weak list (optionally scoped to selected subjects). */
+  const topicOptions = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const item of resolved) {
+      const s = item.question.subject || "Unknown";
+      if (subjectFilter.length && !subjectFilter.includes(s)) continue;
+      const t = item.question.topic || "Unknown";
+      counts.set(t, (counts.get(t) || 0) + 1);
+    }
+    return Array.from(counts, ([name, count]) => ({ name, count })).sort(
+      (a, b) => b.count - a.count || a.name.localeCompare(b.name)
     );
   }, [resolved, subjectFilter]);
+
+  const filtered = useMemo(() => {
+    return resolved.filter((item) => {
+      const s = item.question.subject || "Unknown";
+      const t = item.question.topic || "Unknown";
+      if (subjectFilter.length && !subjectFilter.includes(s)) return false;
+      if (topicFilter.length && !topicFilter.includes(t)) return false;
+      return true;
+    });
+  }, [resolved, subjectFilter, topicFilter]);
+
+  /** Keep topic chips valid when subject selection changes. */
+  const handleSubjectChange = useCallback(
+    (next: string[]) => {
+      setSubjectFilter(next);
+      if (next.length) {
+        const allowed = new Set(
+          resolved
+            .filter((item) =>
+              next.includes(item.question.subject || "Unknown")
+            )
+            .map((item) => item.question.topic || "Unknown")
+        );
+        setTopicFilter((prev) => prev.filter((t) => allowed.has(t)));
+      }
+    },
+    [resolved]
+  );
+
+  const handleTopicChange = useCallback((next: string[]) => {
+    setTopicFilter(next);
+  }, []);
 
   const refresh = useCallback(() => {
     refreshAttempts();
@@ -262,7 +301,7 @@ export default function WeakPage() {
               <span className="font-semibold text-foreground">
                 {filtered.length}
               </span>
-              {subjectFilter.length > 0 && (
+              {(subjectFilter.length > 0 || topicFilter.length > 0) && (
                 <span className="text-muted-fg">
                   {" "}
                   (filtered from {resolved.length})
@@ -274,8 +313,15 @@ export default function WeakPage() {
                 label="Subjects"
                 options={subjectOptions}
                 selected={subjectFilter}
-                onChange={setSubjectFilter}
+                onChange={handleSubjectChange}
                 allLabel="All Subjects"
+              />
+              <FilterDropdown
+                label="Topics"
+                options={topicOptions}
+                selected={topicFilter}
+                onChange={handleTopicChange}
+                allLabel="All Topics"
               />
               {mode === "review" && (
                 <button
@@ -303,6 +349,46 @@ export default function WeakPage() {
               )}
             </div>
           </div>
+
+          {(subjectFilter.length > 0 || topicFilter.length > 0) && (
+            <div className="mb-4 flex flex-wrap items-center gap-1.5 px-1">
+              <span className="mr-1 text-xs text-muted-fg">Filtering:</span>
+              {subjectFilter.map((s) => (
+                <button
+                  key={`s-${s}`}
+                  type="button"
+                  onClick={() =>
+                    handleSubjectChange(subjectFilter.filter((x) => x !== s))
+                  }
+                  className="inline-flex cursor-pointer items-center gap-1 rounded-full border border-primary/20 bg-primary/10 px-2.5 py-0.5 text-xs font-medium text-primary hover:bg-primary/20"
+                >
+                  Subject: {s} ✕
+                </button>
+              ))}
+              {topicFilter.map((t) => (
+                <button
+                  key={`t-${t}`}
+                  type="button"
+                  onClick={() =>
+                    handleTopicChange(topicFilter.filter((x) => x !== t))
+                  }
+                  className="inline-flex cursor-pointer items-center gap-1 rounded-full border border-primary/20 bg-primary/10 px-2.5 py-0.5 text-xs font-medium text-primary hover:bg-primary/20"
+                >
+                  Topic: {t} ✕
+                </button>
+              ))}
+              <button
+                type="button"
+                onClick={() => {
+                  setSubjectFilter([]);
+                  setTopicFilter([]);
+                }}
+                className="ml-1 cursor-pointer text-[0.7rem] text-muted-fg underline hover:text-foreground"
+              >
+                Clear all
+              </button>
+            </div>
+          )}
 
           {mode === "review" && (
             <div className="flex flex-col gap-4">
@@ -403,7 +489,7 @@ export default function WeakPage() {
               })}
               {filtered.length === 0 && (
                 <div className="no-select rounded-2xl border border-border bg-card p-6 text-center text-sm text-muted-fg">
-                  No weak questions match this subject filter.
+                  No weak questions match this subject/topic filter.
                 </div>
               )}
             </div>
