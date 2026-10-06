@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import {
   Loader2,
   Trash2,
@@ -9,6 +10,7 @@ import {
   CheckCircle2,
   XCircle,
   ListFilter,
+  Eraser,
 } from "lucide-react";
 import type { Question, WeakAttempt } from "@/types";
 import { fetchQuestions } from "@/lib/questions";
@@ -25,7 +27,29 @@ function emitWeak() {
   window.dispatchEvent(new CustomEvent("pyq-weak-updated"));
 }
 
+/** Build a stub question from stored attempt metadata if bank lookup fails. */
+function stubFromAttempt(a: WeakAttempt): Question {
+  return {
+    id: a.questionId,
+    question:
+      a.preview ||
+      `Question ${a.questionId}\n\n(Original text unavailable — you answered ${a.selected}, correct is ${a.correct})`,
+    options: {
+      A: a.selected === "A" ? `${a.selected} (your answer)` : "Option A",
+      B: a.selected === "B" ? `${a.selected} (your answer)` : "Option B",
+      C: a.selected === "C" ? `${a.selected} (your answer)` : "Option C",
+      D: a.selected === "D" ? `${a.selected} (your answer)` : "Option D",
+    },
+    answer: a.correct || "A",
+    exam: a.exam,
+    year: a.year,
+    subject: a.subject,
+    topic: a.topic,
+  };
+}
+
 export default function WeakPage() {
+  const pathname = usePathname();
   const [attempts, setAttempts] = useState<WeakAttempt[]>([]);
   const [questionsById, setQuestionsById] = useState<Map<string, Question>>(
     new Map()
@@ -38,9 +62,23 @@ export default function WeakPage() {
   const [testWrongIds, setTestWrongIds] = useState<Set<string>>(new Set());
   const [showFixed, setShowFixed] = useState(false);
 
-  useEffect(() => {
+  const refreshAttempts = useCallback(() => {
     setAttempts(getWeakList(showFixed));
   }, [showFixed]);
+
+  useEffect(() => {
+    refreshAttempts();
+  }, [refreshAttempts, pathname]);
+
+  useEffect(() => {
+    const onUpdate = () => refreshAttempts();
+    window.addEventListener("pyq-weak-updated", onUpdate);
+    window.addEventListener("focus", onUpdate);
+    return () => {
+      window.removeEventListener("pyq-weak-updated", onUpdate);
+      window.removeEventListener("focus", onUpdate);
+    };
+  }, [refreshAttempts]);
 
   useEffect(() => {
     let cancelled = false;
@@ -51,7 +89,7 @@ export default function WeakPage() {
         const map = new Map(data.map((q) => [q.id, q]));
         setQuestionsById(map);
       } catch {
-        // questions may still be partial; review list still works with metadata
+        // review list still works from stored attempt metadata
       } finally {
         if (!cancelled) setLoading(false);
       }
@@ -62,13 +100,10 @@ export default function WeakPage() {
   }, []);
 
   const resolved = useMemo(() => {
-    return attempts
-      .map((a) => {
-        const q = questionsById.get(a.questionId);
-        if (!q) return null;
-        return { attempt: a, question: q };
-      })
-      .filter(Boolean) as { attempt: WeakAttempt; question: Question }[];
+    return attempts.map((a) => {
+      const q = questionsById.get(a.questionId) || stubFromAttempt(a);
+      return { attempt: a, question: q };
+    });
   }, [attempts, questionsById]);
 
   const subjectOptions = useMemo(() => {
@@ -91,9 +126,9 @@ export default function WeakPage() {
   }, [resolved, subjectFilter]);
 
   const refresh = useCallback(() => {
-    setAttempts(getWeakList(showFixed));
+    refreshAttempts();
     emitWeak();
-  }, [showFixed]);
+  }, [refreshAttempts]);
 
   const handleFixed = useCallback(
     (id: string) => {
@@ -103,6 +138,7 @@ export default function WeakPage() {
     [refresh]
   );
 
+  /** Custom remove control — takes this topic/question out of the weak list. */
   const handleRemove = useCallback(
     (id: string) => {
       removeFromWeak(id);
@@ -255,8 +291,8 @@ export default function WeakPage() {
                   type="button"
                   onClick={() => {
                     setMode("review");
-                    setAttempts(getWeakList(showFixed));
-                    emitWeak();
+                    setShowFixed(false);
+                    refresh();
                   }}
                   className="inline-flex cursor-pointer items-center gap-1.5 rounded-xl border border-border bg-card px-3.5 py-1.5 text-xs font-medium text-foreground transition-colors hover:bg-secondary"
                 >
@@ -269,33 +305,55 @@ export default function WeakPage() {
           {mode === "review" && (
             <div className="flex flex-col gap-4">
               {filtered.map(({ attempt, question }) => (
-                <div key={attempt.questionId} className="relative">
-                  <div className="mb-2 flex flex-wrap items-center gap-2 text-xs">
-                    <span className="inline-flex items-center gap-1 rounded-full bg-destructive/10 px-2.5 py-0.5 font-semibold text-destructive">
-                      <XCircle className="h-3 w-3" />
-                      Wrong ×{attempt.wrongCount}
-                    </span>
-                    <span className="text-muted-fg">
-                      You chose{" "}
-                      <strong className="text-destructive">
-                        {attempt.selected}
-                      </strong>
-                      {" · "}Correct is{" "}
-                      <strong className="text-success">{question.answer}</strong>
-                    </span>
-                    {attempt.fixed && (
-                      <span className="inline-flex items-center gap-1 rounded-full bg-success/10 px-2.5 py-0.5 font-semibold text-success">
-                        <CheckCircle2 className="h-3 w-3" /> Fixed
+                <div
+                  key={attempt.questionId}
+                  className="relative rounded-2xl border border-border bg-card p-4 shadow-sm sm:p-5"
+                >
+                  <div className="mb-3 flex flex-wrap items-start justify-between gap-2">
+                    <div className="flex flex-wrap items-center gap-2 text-xs">
+                      <span className="inline-flex items-center gap-1 rounded-full bg-destructive/10 px-2.5 py-0.5 font-semibold text-destructive">
+                        <XCircle className="h-3 w-3" />
+                        Wrong ×{attempt.wrongCount}
                       </span>
-                    )}
+                      <span className="text-muted-fg">
+                        You chose{" "}
+                        <strong className="text-destructive">
+                          {attempt.selected}
+                        </strong>
+                        {" · "}Correct is{" "}
+                        <strong className="text-success">
+                          {attempt.correct || question.answer}
+                        </strong>
+                      </span>
+                      {attempt.fixed && (
+                        <span className="inline-flex items-center gap-1 rounded-full bg-success/10 px-2.5 py-0.5 font-semibold text-success">
+                          <CheckCircle2 className="h-3 w-3" /> Fixed
+                        </span>
+                      )}
+                    </div>
+
+                    {/* Custom remove — takes this weak topic/question out of the list */}
+                    <button
+                      type="button"
+                      onClick={() => handleRemove(attempt.questionId)}
+                      aria-label={`Remove ${attempt.questionId} from weak topics`}
+                      className="group inline-flex shrink-0 cursor-pointer items-center gap-1.5 rounded-xl border-2 border-destructive/40 bg-destructive/10 px-3 py-1.5 text-xs font-bold text-destructive transition-all hover:border-destructive hover:bg-destructive hover:text-white active:scale-95"
+                    >
+                      <Eraser className="h-3.5 w-3.5" />
+                      Remove from Weak
+                    </button>
                   </div>
+
                   <QuestionCard
                     question={question}
-                    selectedOption={attempt.fixed ? question.answer : attempt.selected}
+                    selectedOption={
+                      attempt.fixed ? question.answer : attempt.selected
+                    }
                     onSelectOption={() => {}}
                     mode="practice"
                   />
-                  <div className="mt-2 flex flex-wrap gap-2">
+
+                  <div className="mt-3 flex flex-wrap gap-2">
                     {!attempt.fixed && (
                       <button
                         type="button"
@@ -309,7 +367,7 @@ export default function WeakPage() {
                     <button
                       type="button"
                       onClick={() => handleRemove(attempt.questionId)}
-                      className="inline-flex cursor-pointer items-center gap-1.5 rounded-lg border border-border bg-card px-3 py-1.5 text-xs font-medium text-muted-fg transition-colors hover:bg-secondary hover:text-foreground"
+                      className="inline-flex cursor-pointer items-center gap-1.5 rounded-lg border border-destructive/30 bg-card px-3 py-1.5 text-xs font-medium text-destructive transition-colors hover:bg-destructive/10"
                     >
                       <Trash2 className="h-3.5 w-3.5" />
                       Remove
@@ -398,9 +456,8 @@ export default function WeakPage() {
                       type="button"
                       onClick={() => {
                         setMode("review");
-                        setAttempts(getWeakList(false));
                         setShowFixed(false);
-                        emitWeak();
+                        refresh();
                       }}
                       className="inline-flex cursor-pointer items-center gap-2 rounded-xl border border-border bg-card px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-secondary"
                     >

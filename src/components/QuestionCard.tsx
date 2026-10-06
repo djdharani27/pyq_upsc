@@ -141,10 +141,8 @@ export function QuestionCard({
               onClick={() => {
                 if (answered && mode === "practice") return;
                 onSelectOption(question.id, key);
-                if (mode !== "practice") {
-                  if (key !== question.answer && onWrong) {
-                    onWrong(question, key);
-                  }
+                if (key !== question.answer && onWrong) {
+                  onWrong(question, key);
                 }
               }}
               className={`flex w-full cursor-pointer items-start gap-3 rounded-xl border px-3.5 py-2.5 text-left text-sm transition-all ${cls} ${
