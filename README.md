@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# pyq_upsc
 
-## Getting Started
+Next.js clone of [The PYQ Project](https://pyq-project.in) — search and practice UPSC/State PSC previous year questions — plus a **Weak / Fix** revision mode.
 
-First, run the development server:
+## Features
+
+- Full local question bank (**8,039 PYQs**) with explanations
+- Search, subject/topic filters, exam & year filters, UPSC-only toggle
+- Interactive quiz cards with correct/incorrect feedback + explanations
+- **Weak / Fix** (`/weak`): every wrong attempt is saved in the browser
+  - Review wrong vs correct answers
+  - Mark questions as fixed / remove them
+  - **Retake test** on your weak set — correct answers auto-mark fixed
+- Light / dark theme
+- Deploy-ready for **Vercel** (static data, no external DB)
+
+## Stack
+
+- Next.js 15 (App Router)
+- TypeScript
+- Tailwind CSS v4
+- Local JSON data (`public/questions.json`)
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Data source
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Question bank was extracted from the client-rendered API of pyq-project.in into:
 
-## Learn More
+- `public/questions.json`
+- `src/data/filters.json`
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Scraper helpers live in `scripts/`.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm i -g vercel
+vercel
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Or import the GitHub repo in Vercel — no extra env vars required.
+
+## Weak / Fix storage
+
+Wrong attempts are stored in `localStorage` under `pyq_weak_attempts` (per browser/device).
