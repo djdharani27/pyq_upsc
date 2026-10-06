@@ -1,0 +1,4241 @@
+{
+  "tags": {
+    " Patagonia": {
+      "exam": null,
+      "year": null
+    },
+    "38th-B.P.S.C-Pre 1992": {
+      "exam": "BPSC",
+      "year": "1992"
+    },
+    "38th-BPSC-Pre 1992": {
+      "exam": "BPSC",
+      "year": "1992"
+    },
+    "39th-B.P.S.C-Pre 1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "39th-B.P.S.C.-(Pre) 1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "39th-B.P.S.C.-Pre 1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "39th-BPSC-Pre 1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "39th-BPSC-Pre-1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "40th-B.BS.C-Pre 1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "40th-B.P.S.C.(Pre)-1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "40th-B.P.S.C.-Pre 1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "40th-BPSC-Pre 1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "40th-BPSC-Pre-1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "41st-B.B.S.C.-(Pre) 1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "41st-B.P.S.C-Pre 1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "41st-B.P.S.C.-Pre 1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "41st-BPSC-Pre 1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "41st-BPSC-Pre-1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "42nd-B.P.S.C-Pre 1997": {
+      "exam": "BPSC",
+      "year": "1997"
+    },
+    "42nd-BPSC-Pre 1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "42nd-BPSC-Pre 1997": {
+      "exam": "BPSC",
+      "year": "1997"
+    },
+    "42nd-BPSC-Pre-1997": {
+      "exam": "BPSC",
+      "year": "1997"
+    },
+    "43rd-B.P.S.C-Pre 1999": {
+      "exam": "BPSC",
+      "year": "1999"
+    },
+    "43rd-B.PS.C-Pre 1999": {
+      "exam": "BPSC",
+      "year": "1999"
+    },
+    "43rd-BPSC-Pre 1999": {
+      "exam": "BPSC",
+      "year": "1999"
+    },
+    "43rd-BPSC-Pre-1999": {
+      "exam": "BPSC",
+      "year": "1999"
+    },
+    "44th-B.P.S.C-Pre 2000": {
+      "exam": "BPSC",
+      "year": "2000"
+    },
+    "44th-BPSC-Pre 2000": {
+      "exam": "BPSC",
+      "year": "2000"
+    },
+    "44th-BPSC-Pre-2000": {
+      "exam": "BPSC",
+      "year": "2000"
+    },
+    "45th-B.PS.C-Pre 2001": {
+      "exam": "BPSC",
+      "year": "2001"
+    },
+    "45th-BPSC-Pre 2001": {
+      "exam": "BPSC",
+      "year": "2001"
+    },
+    "46th-B.BS.c-Pre 2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "46th-B.P.S.C-Pre 2004": {
+      "exam": "BPSC",
+      "year": "2004"
+    },
+    "46th-BPSC-Pre 2004": {
+      "exam": "BPSC",
+      "year": "2004"
+    },
+    "46th-BPSC-Pre-2003": {
+      "exam": "BPSC",
+      "year": "2003"
+    },
+    "46th-BPSC-Pre-2004": {
+      "exam": "BPSC",
+      "year": "2004"
+    },
+    "47th-B.P.S.C-Pre 2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "47th-B.P.S.C.-Pre 2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "47th-B.PS.C-Pre 2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "47th-BPSC-Pre 2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "47th-BPSC-Pre-2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "48th-52nd-BPSC-Pre-2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "48th-to-52nd-B.BS.C-Pre 2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "48th-to-52nd-B.P.S.C.-(Pre) 2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "48th-to-52nd-B.PS.C-Pre 2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "48th-to-52nd-BPSC-Pre 2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "52nd-BPSC-Pre 2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "53rd-55th-BPSC-Pre-2011": {
+      "exam": "BPSC",
+      "year": "2011"
+    },
+    "53rd-to-55th-B.P.S.C.-(Pre) 2011": {
+      "exam": "BPSC",
+      "year": "2011"
+    },
+    "53rd-to-55th-B.P.S.C.-Pre 2011": {
+      "exam": "BPSC",
+      "year": "2011"
+    },
+    "53rd-to-55th-BPSC-Pre 2011": {
+      "exam": "BPSC",
+      "year": "2011"
+    },
+    "56th-59th-BPSC-Pre-2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "56th-to-59th-B.P.S.C-Pre 2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "56th-to-59th-B.P.S.C.(Pre)-2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "56th-to-59th-BBSC-Pre 2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "56th-to-59th-BPSC-Pre 2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "59th-to-59th-BPSC-Pre 2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "60th-62nd-BPSC-Pre 2016": {
+      "exam": "BPSC",
+      "year": "2016"
+    },
+    "60th-62nd-BPSC-Pre-2016": {
+      "exam": "BPSC",
+      "year": "2016"
+    },
+    "60th-to-62nd-B.PS.C-Pre 2016": {
+      "exam": "BPSC",
+      "year": "2016"
+    },
+    "60th-to-62nd-BPSC-Pre 2016": {
+      "exam": "BPSC",
+      "year": "2016"
+    },
+    "63rd-B.P.S.C-Pre 2017": {
+      "exam": "BPSC",
+      "year": "2017"
+    },
+    "63rd-BPSC-Pre 2017": {
+      "exam": "BPSC",
+      "year": "2017"
+    },
+    "63rd-BPSC-Pre-2017": {
+      "exam": "BPSC",
+      "year": "2017"
+    },
+    "64th-B.P.S.C.-Pre 2018": {
+      "exam": "BPSC",
+      "year": "2018"
+    },
+    "64th-BPSC-Pre 1999": {
+      "exam": "BPSC",
+      "year": "1999"
+    },
+    "64th-BPSC-Pre 2018": {
+      "exam": "BPSC",
+      "year": "2018"
+    },
+    "64th-BPSC-Pre-2018": {
+      "exam": "BPSC",
+      "year": "2018"
+    },
+    "65th-B.P.S.C.(Pre)-2019": {
+      "exam": "BPSC",
+      "year": "2019"
+    },
+    "65th-B.P.S.C.-Pre 2019": {
+      "exam": "BPSC",
+      "year": "2019"
+    },
+    "65th-BPSC-Pre 2019": {
+      "exam": "BPSC",
+      "year": "2019"
+    },
+    "65th-BPSC-Pre-2019": {
+      "exam": "BPSC",
+      "year": "2019"
+    },
+    "66th-B.P.S.C.(Pre.)-2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "66th-BPSC(Re-Exam)(Pre)-2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "66th-BPSC-Pre 2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "66th-BPSC-Pre-Re-Exam 2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "66th-BPSC-Re-Exam-Pre 2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "66th-BPSC-Re-Exam-Pre-2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "67th-BPSC(Pre)(Re-Exam)-2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "67th-BPSC-Pre 2021": {
+      "exam": "BPSC",
+      "year": "2021"
+    },
+    "67th-BPSC-Pre 2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "67th-BPSC-Pre-2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "67th-BPSC-Pre-Re-Exam 2021": {
+      "exam": "BPSC",
+      "year": "2021"
+    },
+    "67th-BPSC-Pre-Re-Exam 2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "67th-BPSC-Pre-Re-Exam-2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "70-BPSC-Pre 2024": {
+      "exam": "BPSC",
+      "year": "2024"
+    },
+    "70th-BPSC-Pre 2024": {
+      "exam": "BPSC",
+      "year": "2024"
+    },
+    "70th-BPSC-Pre-2024": {
+      "exam": "BPSC",
+      "year": "2024"
+    },
+    "BPSC 1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "BPSC 1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "BPSC 1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "BPSC 2001": {
+      "exam": "BPSC",
+      "year": "2001"
+    },
+    "BPSC(Pre)-2019": {
+      "exam": "BPSC",
+      "year": "2019"
+    },
+    "BPSC-(Pre) 2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "BPSC-(Pre) 2016": {
+      "exam": "BPSC",
+      "year": "2016"
+    },
+    "BPSC-(Pre) 2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "BPSC-Pre 1992": {
+      "exam": "BPSC",
+      "year": "1992"
+    },
+    "BPSC-Pre 1994": {
+      "exam": "BPSC",
+      "year": "1994"
+    },
+    "BPSC-Pre 1995": {
+      "exam": "BPSC",
+      "year": "1995"
+    },
+    "BPSC-Pre 1996": {
+      "exam": "BPSC",
+      "year": "1996"
+    },
+    "BPSC-Pre 1997": {
+      "exam": "BPSC",
+      "year": "1997"
+    },
+    "BPSC-Pre 1999": {
+      "exam": "BPSC",
+      "year": "1999"
+    },
+    "BPSC-Pre 2000": {
+      "exam": "BPSC",
+      "year": "2000"
+    },
+    "BPSC-Pre 2001": {
+      "exam": "BPSC",
+      "year": "2001"
+    },
+    "BPSC-Pre 2002": {
+      "exam": "BPSC",
+      "year": "2002"
+    },
+    "BPSC-Pre 2004": {
+      "exam": "BPSC",
+      "year": "2004"
+    },
+    "BPSC-Pre 2005": {
+      "exam": "BPSC",
+      "year": "2005"
+    },
+    "BPSC-Pre 2008": {
+      "exam": "BPSC",
+      "year": "2008"
+    },
+    "BPSC-Pre 2010": {
+      "exam": "BPSC",
+      "year": "2010"
+    },
+    "BPSC-Pre 2011": {
+      "exam": "BPSC",
+      "year": "2011"
+    },
+    "BPSC-Pre 2015": {
+      "exam": "BPSC",
+      "year": "2015"
+    },
+    "BPSC-Pre 2016": {
+      "exam": "BPSC",
+      "year": "2016"
+    },
+    "BPSC-Pre 2017": {
+      "exam": "BPSC",
+      "year": "2017"
+    },
+    "BPSC-Pre 2018": {
+      "exam": "BPSC",
+      "year": "2018"
+    },
+    "BPSC-Pre 2019": {
+      "exam": "BPSC",
+      "year": "2019"
+    },
+    "BPSC-Pre 2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "BPSC-Pre 2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "BPSC-Pre 2024": {
+      "exam": "BPSC",
+      "year": "2024"
+    },
+    "BPSC-Pre-Re-Exam 2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "BPSC-Pre-Re-Exam 2022": {
+      "exam": "BPSC",
+      "year": "2022"
+    },
+    "BPSC-Re-Exam-Pre 2020": {
+      "exam": "BPSC",
+      "year": "2020"
+    },
+    "CAPF 2014": {
+      "exam": "CAPF",
+      "year": "2014"
+    },
+    "CAPF 2015": {
+      "exam": "CAPF",
+      "year": "2015"
+    },
+    "CAPF 2016": {
+      "exam": "CAPF",
+      "year": "2016"
+    },
+    "CAPF 2017": {
+      "exam": "CAPF",
+      "year": "2017"
+    },
+    "CAPF 2018": {
+      "exam": "CAPF",
+      "year": "2018"
+    },
+    "CAPF 2019": {
+      "exam": "CAPF",
+      "year": "2019"
+    },
+    "CAPF 2020": {
+      "exam": "CAPF",
+      "year": "2020"
+    },
+    "CAPF 2021": {
+      "exam": "CAPF",
+      "year": "2021"
+    },
+    "CAPF 2022": {
+      "exam": "CAPF",
+      "year": "2022"
+    },
+    "CAPF 2023": {
+      "exam": "CAPF",
+      "year": "2023"
+    },
+    "CAPF 2024": {
+      "exam": "CAPF",
+      "year": "2024"
+    },
+    "CAPF-2015": {
+      "exam": "CAPF",
+      "year": "2015"
+    },
+    "CAPF-2016": {
+      "exam": "CAPF",
+      "year": "2016"
+    },
+    "CAPF-2017": {
+      "exam": "CAPF",
+      "year": "2017"
+    },
+    "CAPF-2018": {
+      "exam": "CAPF",
+      "year": "2018"
+    },
+    "CAPF-2019": {
+      "exam": "CAPF",
+      "year": "2019"
+    },
+    "CAPF-2020": {
+      "exam": "CAPF",
+      "year": "2020"
+    },
+    "CAPF-2021": {
+      "exam": "CAPF",
+      "year": "2021"
+    },
+    "CAPF-2022": {
+      "exam": "CAPF",
+      "year": "2022"
+    },
+    "CAPF-2023": {
+      "exam": "CAPF",
+      "year": "2023"
+    },
+    "CAPF-2024": {
+      "exam": "CAPF",
+      "year": "2024"
+    },
+    "CDS 2014": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2014 (I)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2014 (II)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2014(I)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2014(II)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2014-I": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2014-II": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS 2015": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015 (I)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015 (II)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015 I(II)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015 I)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015(I)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015(II)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2015-II": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS 2016": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS 2016 (I)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS 2016 (II)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS 2016(I)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS 2016(II)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS 2016-I": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS 2017": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2017 (I)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2017 (II)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2017(I)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2017(II)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2017-I": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2017-II": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS 2018": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS 2018 (I)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS 2018 (II)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS 2018(I)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS 2018(II)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS 2018-I": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS 2019": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS 2019 (I)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS 2019 (II)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS 2019(I)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS 2019(II)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS 2020": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS 2020 (I)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS 2020 (II)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS 2020(I)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS 2020(II)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS 2021": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS 2021 (I)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS 2021 (II)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS 2021(I)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS 2021-I": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS 2022": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS 2022 (I)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS 2022 (II)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS 2022(I)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS 2022(II)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS 2023": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS 2023 (I)": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS 2023 (II)": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS 2023(II)": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS 2023-II": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS Pre.2017 I": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS Pre.2017 II": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS Pre.2018 II": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-2014(I)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-2014(II)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-2014-(II)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-2014-I": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-2014-II": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-2015(I)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-2015(II)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-2015-(I)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-2015-(II)": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-2015-I": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-2015-II": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-2016(I)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-2016(II)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-2016-(I)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-2016-(II)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-2016-I": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-2016-II": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-2017(I)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-2017(II)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-2017-II": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-2018(I)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-2018(II)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-2018-(I)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-2018-I": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-2018-II": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-2019(I)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-2019(II)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-2019-(I)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-2019-(II)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-2019-II": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-2020(I)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS-2020(II)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS-2020-I": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS-2020-II": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS-2021": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2021(I)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2021(II)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2021-(I)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2021-(II)": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2021-I": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2021-II": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-2022": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2022(I)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2022(II)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2022-(I)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2022-(II)": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2022-I": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2022-II": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-2023": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-2023(I)": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-2023(II)": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-2023-(II)": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-2023-I": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-2023-II": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-I 2014": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-I 2015": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-I 2016": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-I 2017": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-I 2018": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-I 2020": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CDS-I 2021": {
+      "exam": "CDS",
+      "year": "2021"
+    },
+    "CDS-I 2022": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-I 2023": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-II 2015": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-II 2016": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-II 2017": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-II 2018": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-II 2019": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-II 2022": {
+      "exam": "CDS",
+      "year": "2022"
+    },
+    "CDS-II 2023": {
+      "exam": "CDS",
+      "year": "2023"
+    },
+    "CDS-Pre 2014 (I)": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-Pre 2014 I": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-Pre 2014-II": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-Pre 2015 I": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-Pre 2015 II": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-Pre 2015-I": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-Pre 2015-II": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-Pre 2016 (I)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2016 (II)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2016 I": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2016 II": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2016(II)": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2016-I": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2016-II": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre 2017 II": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-Pre 2017(I)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-Pre 2017(II)": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-Pre 2017-I": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-Pre 2017-II": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-Pre 2018 II": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-Pre 2018(I)": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-Pre 2018-I": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-Pre 2018-II": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-Pre 2019": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-Pre 2019 (I)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-Pre 2019 I": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-Pre 2019(I)": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-Pre 2019-I": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-Pre-2014-I": {
+      "exam": "CDS",
+      "year": "2014"
+    },
+    "CDS-Pre-2015-II": {
+      "exam": "CDS",
+      "year": "2015"
+    },
+    "CDS-Pre-2016-I": {
+      "exam": "CDS",
+      "year": "2016"
+    },
+    "CDS-Pre-2017-II": {
+      "exam": "CDS",
+      "year": "2017"
+    },
+    "CDS-Pre-2018-II": {
+      "exam": "CDS",
+      "year": "2018"
+    },
+    "CDS-Pre-2019-I": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CDS-Pre-2019-II": {
+      "exam": "CDS",
+      "year": "2019"
+    },
+    "CG-PCS 2005": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2005"
+    },
+    "CG-PCS 2016": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2016"
+    },
+    "CG-PCS 2017": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2017"
+    },
+    "CG-PCS 2019": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2019"
+    },
+    "CG-PCS 2021": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2021"
+    },
+    "CG-PCS-Pre 2003": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2003"
+    },
+    "CG-PCS-Pre 2011": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2011"
+    },
+    "CG-PCS-Pre 2013": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2013"
+    },
+    "CG-PCS-Pre 2014": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2014"
+    },
+    "CG-PCS-Pre 2015": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2015"
+    },
+    "CG-PCS-Pre 2016": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2016"
+    },
+    "CG-PCS-Pre 2017": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2017"
+    },
+    "CG-PCS-Pre 2018": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2018"
+    },
+    "CG-PCS-Pre 2019": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2019"
+    },
+    "CG-PCS-Pre 2020": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2020"
+    },
+    "CG-PCS-Pre 2021": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2021"
+    },
+    "CG-PCS-Pre-2008": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2008"
+    },
+    "CG-PCS-Pre-2011": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2011"
+    },
+    "CG-PCS-Pre-2013": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2013"
+    },
+    "CG-PCS-Pre-2017": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2017"
+    },
+    "CG-PCS-Pre-2019": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2019"
+    },
+    "CG-PCS-Pre-2021": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2021"
+    },
+    "CGPSC(Pre)-2018": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2018"
+    },
+    "CGPSC-Pre 2018": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2018"
+    },
+    "CGPSC-Pre 2020": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2020"
+    },
+    "CSDS-2020(I)": {
+      "exam": "CDS",
+      "year": "2020"
+    },
+    "CSE 1993": {
+      "exam": "UPSC CSE",
+      "year": "1993"
+    },
+    "CSE 1994": {
+      "exam": "UPSC CSE",
+      "year": "1994"
+    },
+    "CSE 1995": {
+      "exam": "UPSC CSE",
+      "year": "1995"
+    },
+    "CSE 1996": {
+      "exam": "UPSC CSE",
+      "year": "1996"
+    },
+    "CSE 1997": {
+      "exam": "UPSC CSE",
+      "year": "1997"
+    },
+    "CSE 1998": {
+      "exam": "UPSC CSE",
+      "year": "1998"
+    },
+    "CSE 1999": {
+      "exam": "UPSC CSE",
+      "year": "1999"
+    },
+    "CSE 2000": {
+      "exam": "UPSC CSE",
+      "year": "2000"
+    },
+    "CSE 2001": {
+      "exam": "UPSC CSE",
+      "year": "2001"
+    },
+    "CSE 2002": {
+      "exam": "UPSC CSE",
+      "year": "2002"
+    },
+    "CSE 2003": {
+      "exam": "UPSC CSE",
+      "year": "2003"
+    },
+    "CSE 2004": {
+      "exam": "UPSC CSE",
+      "year": "2004"
+    },
+    "CSE 2005": {
+      "exam": "UPSC CSE",
+      "year": "2005"
+    },
+    "CSE 2007": {
+      "exam": "UPSC CSE",
+      "year": "2007"
+    },
+    "CSE 2008": {
+      "exam": "UPSC CSE",
+      "year": "2008"
+    },
+    "CSE 2009": {
+      "exam": "UPSC CSE",
+      "year": "2009"
+    },
+    "CSE 2010": {
+      "exam": "UPSC CSE",
+      "year": "2010"
+    },
+    "CSE 2011": {
+      "exam": "UPSC CSE",
+      "year": "2011"
+    },
+    "CSE 2012": {
+      "exam": "UPSC CSE",
+      "year": "2012"
+    },
+    "CSE 2013": {
+      "exam": "UPSC CSE",
+      "year": "2013"
+    },
+    "CSE 2014": {
+      "exam": "UPSC CSE",
+      "year": "2014"
+    },
+    "CSE 2016": {
+      "exam": "UPSC CSE",
+      "year": "2016"
+    },
+    "CSE 2017": {
+      "exam": "UPSC CSE",
+      "year": "2017"
+    },
+    "CSE 2018": {
+      "exam": "UPSC CSE",
+      "year": "2018"
+    },
+    "CSE 2019": {
+      "exam": "UPSC CSE",
+      "year": "2019"
+    },
+    "CSE 2020": {
+      "exam": "UPSC CSE",
+      "year": "2020"
+    },
+    "CSE 2021": {
+      "exam": "UPSC CSE",
+      "year": "2021"
+    },
+    "CSE 2022": {
+      "exam": "UPSC CSE",
+      "year": "2022"
+    },
+    "CSE 2024": {
+      "exam": "UPSC CSE",
+      "year": "2024"
+    },
+    "CSE 2025": {
+      "exam": "UPSC CSE",
+      "year": "2025"
+    },
+    "CSE-Pre-Year-Not-Specified": {
+      "exam": "UPSC CSE",
+      "year": null
+    },
+    "Chhattisgarh-P.C.S-Pre 2013": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2013"
+    },
+    "Chhattisgarh-P.C.S-Pre 2015": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2015"
+    },
+    "Chhattisgarh-P.C.S-Pre 2016": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2016"
+    },
+    "Chhattisgarh-P.C.S-Pre 2017": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2017"
+    },
+    "Chhattisgarh-P.C.S.(Pre)-2008": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2008"
+    },
+    "Chhattisgarh-P.C.S.(Pre)-2011": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2011"
+    },
+    "Chhattisgarh-P.C.S.(Pre)-2019": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2019"
+    },
+    "Chhattisgarh-P.C.S.(Pre)-2020": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2020"
+    },
+    "Chhattisgarh-P.C.S.-(Pre) 2011": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2011"
+    },
+    "Chhattisgarh-P.C.S.-Pre 2011": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2011"
+    },
+    "Chhattisgarh-P.C.S.-Pre 2015": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2015"
+    },
+    "Chhattisgarh-P.C.S.-Pre 2016": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2016"
+    },
+    "Chhattisgarh-P.C.S.-Pre 2020": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2020"
+    },
+    "Chhattisgarh-PCS-Pre 2003": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2003"
+    },
+    "Chhattisgarh-PCS-Pre 2005": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2005"
+    },
+    "Chhattisgarh-PCS-Pre 2008": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2008"
+    },
+    "Chhattisgarh-PCS-Pre 2011": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2011"
+    },
+    "Chhattisgarh-PCS-Pre 2013": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2013"
+    },
+    "Chhattisgarh-PCS-Pre 2014": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2014"
+    },
+    "Chhattisgarh-PCS-Pre 2015": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2015"
+    },
+    "Chhattisgarh-PCS-Pre 2016": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2016"
+    },
+    "Chhattisgarh-PCS-Pre 2017": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2017"
+    },
+    "Chhattisgarh-PCS-Pre 2018": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2018"
+    },
+    "Chhattisgarh-PCS-Pre 2019": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2019"
+    },
+    "Chhattisgarh-PCS-Pre 2020": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2020"
+    },
+    "Chhattisgarh-PCS-Pre 2021": {
+      "exam": "CGPSC / Chhattisgarh PCS",
+      "year": "2021"
+    },
+    "J-PCS 2003": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2003"
+    },
+    "J-PCS 2013": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2013"
+    },
+    "J-PCS 2021": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2021"
+    },
+    "JPSC(Pre)-2016": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2016"
+    },
+    "JPSC-Pre 2016": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2016"
+    },
+    "Jharkhand-P.C.S,-(Pre) 2013": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2013"
+    },
+    "Jharkhand-P.C.S.(Pre)-2021": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2021"
+    },
+    "Jharkhand-P.C.S.-(Pre) 2003": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2003"
+    },
+    "Jharkhand-P.C.S.-(Pre) 2010": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2010"
+    },
+    "Jharkhand-P.C.S.-(Pre) 2013": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2013"
+    },
+    "Jharkhand-P.C.S.-Pre 2003": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2003"
+    },
+    "Jharkhand-P.C.S.-Pre 2013": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2013"
+    },
+    "Jharkhand-P.C.S.-Pre 2016": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2016"
+    },
+    "Jharkhand-P.C.S.-Pre 2021": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2021"
+    },
+    "Jharkhand-PCS(Pre)-2003": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2003"
+    },
+    "Jharkhand-PCS-Mains 2016": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2016"
+    },
+    "Jharkhand-PCS-Pre 2003": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2003"
+    },
+    "Jharkhand-PCS-Pre 2011": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2011"
+    },
+    "Jharkhand-PCS-Pre 2013": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2013"
+    },
+    "Jharkhand-PCS-Pre 2016": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2016"
+    },
+    "Jharkhand-PCS-Pre 2021": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2021"
+    },
+    "Jharkhand-PCS-Pre-2003": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2003"
+    },
+    "Jharkhand-PCS-Pre-2016": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2016"
+    },
+    "Jharkhand-PCS-Pre-2021": {
+      "exam": "JPSC / Jharkhand PCS",
+      "year": "2021"
+    },
+    "M.P.P.C.S.(Pre)-2008": {
+      "exam": "MPPSC",
+      "year": "2008"
+    },
+    "M.P.P.C.S.(Pre)-2014": {
+      "exam": "MPPSC",
+      "year": "2014"
+    },
+    "M.P.P.C.S.(Pre)-2020": {
+      "exam": "MPPSC",
+      "year": "2020"
+    },
+    "M.P.P.C.S.-(Pre) 2014": {
+      "exam": "MPPSC",
+      "year": "2014"
+    },
+    "M.P.P.C.S.-(Pre) 2015": {
+      "exam": "MPPSC",
+      "year": "2015"
+    },
+    "M.P.P.C.S.-Pre 1990": {
+      "exam": "MPPSC",
+      "year": "1990"
+    },
+    "M.P.P.C.S.-Pre 1994": {
+      "exam": "MPPSC",
+      "year": "1994"
+    },
+    "M.P.P.C.S.-Pre 1999": {
+      "exam": "MPPSC",
+      "year": "1999"
+    },
+    "M.P.P.C.S.-Pre 2006": {
+      "exam": "MPPSC",
+      "year": "2006"
+    },
+    "M.P.P.C.S.-Pre 2008": {
+      "exam": "MPPSC",
+      "year": "2008"
+    },
+    "M.P.P.C.S.-Pre 2012": {
+      "exam": "MPPSC",
+      "year": "2012"
+    },
+    "M.P.P.C.S.-Pre 2013": {
+      "exam": "MPPSC",
+      "year": "2013"
+    },
+    "M.P.P.C.S.-Pre 2014": {
+      "exam": "MPPSC",
+      "year": "2014"
+    },
+    "M.P.P.C.S.-Pre 2016": {
+      "exam": "MPPSC",
+      "year": "2016"
+    },
+    "M.P.P.C.S.-Pre 2018": {
+      "exam": "MPPSC",
+      "year": "2018"
+    },
+    "M.P.P.C.S.-Pre 2019": {
+      "exam": "MPPSC",
+      "year": "2019"
+    },
+    "M.P.P.C.S.-Pre 2020": {
+      "exam": "MPPSC",
+      "year": "2020"
+    },
+    "MP-PCS-Pre 1991": {
+      "exam": "MPPSC",
+      "year": "1991"
+    },
+    "MP-PCS-Pre 1992": {
+      "exam": "MPPSC",
+      "year": "1992"
+    },
+    "MP-PCS-Pre 1994": {
+      "exam": "MPPSC",
+      "year": "1994"
+    },
+    "MP-PCS-Pre 1995": {
+      "exam": "MPPSC",
+      "year": "1995"
+    },
+    "MP-PCS-Pre 1996": {
+      "exam": "MPPSC",
+      "year": "1996"
+    },
+    "MP-PCS-Pre 2005": {
+      "exam": "MPPSC",
+      "year": "2005"
+    },
+    "MP-PCS-Pre 2008": {
+      "exam": "MPPSC",
+      "year": "2008"
+    },
+    "MP-PCS-Pre 2012": {
+      "exam": "MPPSC",
+      "year": "2012"
+    },
+    "MP-PCS-Pre 2014": {
+      "exam": "MPPSC",
+      "year": "2014"
+    },
+    "MP-PCS-Pre 2017": {
+      "exam": "MPPSC",
+      "year": "2017"
+    },
+    "MP-PCS-Pre 2018": {
+      "exam": "MPPSC",
+      "year": "2018"
+    },
+    "MP-PCS-Pre 2019": {
+      "exam": "MPPSC",
+      "year": "2019"
+    },
+    "MP-PCS-Pre 2020": {
+      "exam": "MPPSC",
+      "year": "2020"
+    },
+    "MP-PCS-Pre 2021": {
+      "exam": "MPPSC",
+      "year": "2021"
+    },
+    "MP-PCS-Spl-Pre 2004": {
+      "exam": "MPPSC",
+      "year": "2004"
+    },
+    "MPPCS 1990": {
+      "exam": "MPPSC",
+      "year": "1990"
+    },
+    "MPPCS 1992": {
+      "exam": "MPPSC",
+      "year": "1992"
+    },
+    "MPPCS 1994": {
+      "exam": "MPPSC",
+      "year": "1994"
+    },
+    "MPPCS 1995": {
+      "exam": "MPPSC",
+      "year": "1995"
+    },
+    "MPPCS 2000": {
+      "exam": "MPPSC",
+      "year": "2000"
+    },
+    "MPPCS 2008": {
+      "exam": "MPPSC",
+      "year": "2008"
+    },
+    "MPPCS 2017": {
+      "exam": "MPPSC",
+      "year": "2017"
+    },
+    "MPPCS 2018": {
+      "exam": "MPPSC",
+      "year": "2018"
+    },
+    "MPPCS 2019": {
+      "exam": "MPPSC",
+      "year": "2019"
+    },
+    "MPPCS 2020": {
+      "exam": "MPPSC",
+      "year": "2020"
+    },
+    "MPPCS(Pre)-2018": {
+      "exam": "MPPSC",
+      "year": "2018"
+    },
+    "MPPCS(Pre)-2019": {
+      "exam": "MPPSC",
+      "year": "2019"
+    },
+    "MPPCS-Mains 1994": {
+      "exam": "MPPSC",
+      "year": "1994"
+    },
+    "MPPCS-Pre 1990": {
+      "exam": "MPPSC",
+      "year": "1990"
+    },
+    "MPPCS-Pre 1991": {
+      "exam": "MPPSC",
+      "year": "1991"
+    },
+    "MPPCS-Pre 1992": {
+      "exam": "MPPSC",
+      "year": "1992"
+    },
+    "MPPCS-Pre 1993": {
+      "exam": "MPPSC",
+      "year": "1993"
+    },
+    "MPPCS-Pre 1994": {
+      "exam": "MPPSC",
+      "year": "1994"
+    },
+    "MPPCS-Pre 1995": {
+      "exam": "MPPSC",
+      "year": "1995"
+    },
+    "MPPCS-Pre 1996": {
+      "exam": "MPPSC",
+      "year": "1996"
+    },
+    "MPPCS-Pre 1997": {
+      "exam": "MPPSC",
+      "year": "1997"
+    },
+    "MPPCS-Pre 1998": {
+      "exam": "MPPSC",
+      "year": "1998"
+    },
+    "MPPCS-Pre 1999": {
+      "exam": "MPPSC",
+      "year": "1999"
+    },
+    "MPPCS-Pre 2000": {
+      "exam": "MPPSC",
+      "year": "2000"
+    },
+    "MPPCS-Pre 2002": {
+      "exam": "MPPSC",
+      "year": "2002"
+    },
+    "MPPCS-Pre 2004": {
+      "exam": "MPPSC",
+      "year": "2004"
+    },
+    "MPPCS-Pre 2005": {
+      "exam": "MPPSC",
+      "year": "2005"
+    },
+    "MPPCS-Pre 2008": {
+      "exam": "MPPSC",
+      "year": "2008"
+    },
+    "MPPCS-Pre 2010": {
+      "exam": "MPPSC",
+      "year": "2010"
+    },
+    "MPPCS-Pre 2011": {
+      "exam": "MPPSC",
+      "year": "2011"
+    },
+    "MPPCS-Pre 2012": {
+      "exam": "MPPSC",
+      "year": "2012"
+    },
+    "MPPCS-Pre 2013": {
+      "exam": "MPPSC",
+      "year": "2013"
+    },
+    "MPPCS-Pre 2014": {
+      "exam": "MPPSC",
+      "year": "2014"
+    },
+    "MPPCS-Pre 2015": {
+      "exam": "MPPSC",
+      "year": "2015"
+    },
+    "MPPCS-Pre 2016": {
+      "exam": "MPPSC",
+      "year": "2016"
+    },
+    "MPPCS-Pre 2017": {
+      "exam": "MPPSC",
+      "year": "2017"
+    },
+    "MPPCS-Pre 2018": {
+      "exam": "MPPSC",
+      "year": "2018"
+    },
+    "MPPCS-Pre 2019": {
+      "exam": "MPPSC",
+      "year": "2019"
+    },
+    "MPPCS-Pre 2020": {
+      "exam": "MPPSC",
+      "year": "2020"
+    },
+    "MPPCS-Pre 2021": {
+      "exam": "MPPSC",
+      "year": "2021"
+    },
+    "MPPCS-Pre 2022": {
+      "exam": "MPPSC",
+      "year": "2022"
+    },
+    "MPPCS-Pre-1990": {
+      "exam": "MPPSC",
+      "year": "1990"
+    },
+    "MPPCS-Pre-2008": {
+      "exam": "MPPSC",
+      "year": "2008"
+    },
+    "MPPCS-Pre-2018": {
+      "exam": "MPPSC",
+      "year": "2018"
+    },
+    "MPPCS-Pre-2019": {
+      "exam": "MPPSC",
+      "year": "2019"
+    },
+    "MPPCS-Pre-2021": {
+      "exam": "MPPSC",
+      "year": "2021"
+    },
+    "MPPCS-Spl-Pre 2004": {
+      "exam": "MPPSC",
+      "year": "2004"
+    },
+    "R.A.S-R.T.S.-Pre 2018": {
+      "exam": "RAS/RTS",
+      "year": "2018"
+    },
+    "R.A.S.-R.T.S.-Pre 2007": {
+      "exam": "RAS/RTS",
+      "year": "2007"
+    },
+    "R.A.S.-R.T.S.-Pre 2010": {
+      "exam": "RAS/RTS",
+      "year": "2010"
+    },
+    "R.A.S.-R.T.S.-Pre 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "R.A.S./R.T.S.-(Pre) 1999": {
+      "exam": "RAS/RTS",
+      "year": "1999"
+    },
+    "R.A.S./R.T.S.-(Pre) 2012": {
+      "exam": "RAS/RTS",
+      "year": "2012"
+    },
+    "R.A.S./R.T.S.-Pre 1992": {
+      "exam": "RAS/RTS",
+      "year": "1992"
+    },
+    "R.A.S./R.T.S.-Pre 1993": {
+      "exam": "RAS/RTS",
+      "year": "1993"
+    },
+    "R.A.S./R.T.S.-Pre 1994": {
+      "exam": "RAS/RTS",
+      "year": "1994"
+    },
+    "R.A.S./R.T.S.-Pre 1997": {
+      "exam": "RAS/RTS",
+      "year": "1997"
+    },
+    "R.A.S./R.T.S.-Pre 1999": {
+      "exam": "RAS/RTS",
+      "year": "1999"
+    },
+    "R.A.S./R.T.S.-Pre 2003": {
+      "exam": "RAS/RTS",
+      "year": "2003"
+    },
+    "R.A.S./R.T.S.-Pre 2007": {
+      "exam": "RAS/RTS",
+      "year": "2007"
+    },
+    "R.A.S./R.T.S.-Pre 2010": {
+      "exam": "RAS/RTS",
+      "year": "2010"
+    },
+    "R.A.S./R.T.S.-Pre 2012": {
+      "exam": "RAS/RTS",
+      "year": "2012"
+    },
+    "R.A.S./R.T.S.-Pre 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "R.A.S./R.T.S.-Pre 2016": {
+      "exam": "RAS/RTS",
+      "year": "2016"
+    },
+    "R.A.S./R.T.S.-Pre 2018": {
+      "exam": "RAS/RTS",
+      "year": "2018"
+    },
+    "R.A.S./R.T.S.-Pre 2021": {
+      "exam": "RAS/RTS",
+      "year": "2021"
+    },
+    "R.A.S./R.T.S.-Pre-Re-Exam 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "R.A.S./RTS-(Pre)-(Re-Exam) 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS-RTS-Pre 1992": {
+      "exam": "RAS/RTS",
+      "year": "1992"
+    },
+    "RAS-RTS-Pre 1993": {
+      "exam": "RAS/RTS",
+      "year": "1993"
+    },
+    "RAS-RTS-Pre 1994": {
+      "exam": "RAS/RTS",
+      "year": "1994"
+    },
+    "RAS-RTS-Pre 1996": {
+      "exam": "RAS/RTS",
+      "year": "1996"
+    },
+    "RAS-RTS-Pre 1997": {
+      "exam": "RAS/RTS",
+      "year": "1997"
+    },
+    "RAS-RTS-Pre 1999": {
+      "exam": "RAS/RTS",
+      "year": "1999"
+    },
+    "RAS-RTS-Pre 2003": {
+      "exam": "RAS/RTS",
+      "year": "2003"
+    },
+    "RAS-RTS-Pre 2007": {
+      "exam": "RAS/RTS",
+      "year": "2007"
+    },
+    "RAS-RTS-Pre 2008": {
+      "exam": "RAS/RTS",
+      "year": "2008"
+    },
+    "RAS-RTS-Pre 2010": {
+      "exam": "RAS/RTS",
+      "year": "2010"
+    },
+    "RAS-RTS-Pre 2012": {
+      "exam": "RAS/RTS",
+      "year": "2012"
+    },
+    "RAS-RTS-Pre 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS-RTS-Pre 2016": {
+      "exam": "RAS/RTS",
+      "year": "2016"
+    },
+    "RAS-RTS-Pre 2018": {
+      "exam": "RAS/RTS",
+      "year": "2018"
+    },
+    "RAS-RTS-Pre 2021": {
+      "exam": "RAS/RTS",
+      "year": "2021"
+    },
+    "RAS-RTS-Pre-1993": {
+      "exam": "RAS/RTS",
+      "year": "1993"
+    },
+    "RAS-RTS-Pre-1994": {
+      "exam": "RAS/RTS",
+      "year": "1994"
+    },
+    "RAS-RTS-Pre-2010": {
+      "exam": "RAS/RTS",
+      "year": "2010"
+    },
+    "RAS-RTS-Pre-2018": {
+      "exam": "RAS/RTS",
+      "year": "2018"
+    },
+    "RAS-RTS-Pre-Re-Exam 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS-RTS-Pre-Re-exam-2000": {
+      "exam": "RAS/RTS",
+      "year": "2000"
+    },
+    "RAS-RTS-Re-Exam-Pre 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS/RTS(Pre)-1992": {
+      "exam": "RAS/RTS",
+      "year": "1992"
+    },
+    "RAS/RTS(Pre)-1993": {
+      "exam": "RAS/RTS",
+      "year": "1993"
+    },
+    "RAS/RTS(Pre)-2010": {
+      "exam": "RAS/RTS",
+      "year": "2010"
+    },
+    "RAS/RTS(Pre)-2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS/RTS(Pre)-2016": {
+      "exam": "RAS/RTS",
+      "year": "2016"
+    },
+    "RAS/RTS(Pre)-2018": {
+      "exam": "RAS/RTS",
+      "year": "2018"
+    },
+    "RAS/RTS-Pre 1992": {
+      "exam": "RAS/RTS",
+      "year": "1992"
+    },
+    "RAS/RTS-Pre 1993": {
+      "exam": "RAS/RTS",
+      "year": "1993"
+    },
+    "RAS/RTS-Pre 1994": {
+      "exam": "RAS/RTS",
+      "year": "1994"
+    },
+    "RAS/RTS-Pre 1996": {
+      "exam": "RAS/RTS",
+      "year": "1996"
+    },
+    "RAS/RTS-Pre 1997": {
+      "exam": "RAS/RTS",
+      "year": "1997"
+    },
+    "RAS/RTS-Pre 1999": {
+      "exam": "RAS/RTS",
+      "year": "1999"
+    },
+    "RAS/RTS-Pre 2000": {
+      "exam": "RAS/RTS",
+      "year": "2000"
+    },
+    "RAS/RTS-Pre 2003": {
+      "exam": "RAS/RTS",
+      "year": "2003"
+    },
+    "RAS/RTS-Pre 2005": {
+      "exam": "RAS/RTS",
+      "year": "2005"
+    },
+    "RAS/RTS-Pre 2007": {
+      "exam": "RAS/RTS",
+      "year": "2007"
+    },
+    "RAS/RTS-Pre 2008": {
+      "exam": "RAS/RTS",
+      "year": "2008"
+    },
+    "RAS/RTS-Pre 2010": {
+      "exam": "RAS/RTS",
+      "year": "2010"
+    },
+    "RAS/RTS-Pre 2012": {
+      "exam": "RAS/RTS",
+      "year": "2012"
+    },
+    "RAS/RTS-Pre 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS/RTS-Pre 2016": {
+      "exam": "RAS/RTS",
+      "year": "2016"
+    },
+    "RAS/RTS-Pre 2018": {
+      "exam": "RAS/RTS",
+      "year": "2018"
+    },
+    "RAS/RTS-Pre 2021": {
+      "exam": "RAS/RTS",
+      "year": "2021"
+    },
+    "RAS/RTS-Pre-Re-Exam 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "RAS/RTS-Re-Exam-Pre 2013": {
+      "exam": "RAS/RTS",
+      "year": "2013"
+    },
+    "U.B.P.C.S.-(Pre) 2014": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2014"
+    },
+    "U.P.-Lower-Sub-Pre 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "U.P.-Lower-Sub-Pre 2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "U.P.-Lower-Sub-Pre 2009": {
+      "exam": "UP Lower Subordinate",
+      "year": "2009"
+    },
+    "U.P.-Lower-Sub-Spl-Pre 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "U.P.-Lower-Sub.-(Pre) 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "U.P.-Lower-Sub.-(Pre) 2009": {
+      "exam": "UP Lower Subordinate",
+      "year": "2009"
+    },
+    "U.P.-Lower-Sub.-(Pre) 2013": {
+      "exam": "UP Lower Subordinate",
+      "year": "2013"
+    },
+    "U.P.P.C.S-(Pre) 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "U.P.P.C.S.-(Mains) 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "U.P.P.C.S.-(Mains) 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "U.P.P.C.S.-(Mains) 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "U.P.P.C.S.-(Mains) 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "U.P.P.C.S.-(Mains) 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "U.P.P.C.S.-(Mains) 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "U.P.P.C.S.-(Pre) 1991": {
+      "exam": "UPPSC PCS",
+      "year": "1991"
+    },
+    "U.P.P.C.S.-(Pre) 1992": {
+      "exam": "UPPSC PCS",
+      "year": "1992"
+    },
+    "U.P.P.C.S.-(Pre) 1996": {
+      "exam": "UPPSC PCS",
+      "year": "1996"
+    },
+    "U.P.P.C.S.-(Pre) 1997": {
+      "exam": "UPPSC PCS",
+      "year": "1997"
+    },
+    "U.P.P.C.S.-(Pre) 1998": {
+      "exam": "UPPSC PCS",
+      "year": "1998"
+    },
+    "U.P.P.C.S.-(Pre) 1999": {
+      "exam": "UPPSC PCS",
+      "year": "1999"
+    },
+    "U.P.P.C.S.-(Pre) 2001": {
+      "exam": "UPPSC PCS",
+      "year": "2001"
+    },
+    "U.P.P.C.S.-(Pre) 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "U.P.P.C.S.-(Pre) 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "U.P.P.C.S.-(Pre) 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "U.P.P.C.S.-(Pre) 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "U.P.P.C.S.-(Pre) 2018": {
+      "exam": "UPPSC PCS",
+      "year": "2018"
+    },
+    "U.P.P.C.S.-(Pre) 2019": {
+      "exam": "UPPSC PCS",
+      "year": "2019"
+    },
+    "U.P.P.C.S.-(Pre) 2021": {
+      "exam": "UPPSC PCS",
+      "year": "2021"
+    },
+    "U.P.P.C.S.-(Pre) 2022": {
+      "exam": "UPPSC PCS",
+      "year": "2022"
+    },
+    "U.P.P.C.S.-(Pre) 2024": {
+      "exam": "UPPSC PCS",
+      "year": "2024"
+    },
+    "U.P.P.C.S.-Mains 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "U.P.P.C.S.-Mains 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "U.P.P.C.S.-Mains 2007": {
+      "exam": "UPPSC PCS",
+      "year": "2007"
+    },
+    "U.P.P.C.S.-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "U.P.P.C.S.-Mains 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "U.P.P.C.S.-Mains 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "U.P.P.C.S.-Mains 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "U.P.P.C.S.-Mains 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "U.P.P.C.S.-Pre 1997": {
+      "exam": "UPPSC PCS",
+      "year": "1997"
+    },
+    "U.P.P.C.S.-Pre 1998": {
+      "exam": "UPPSC PCS",
+      "year": "1998"
+    },
+    "U.P.P.C.S.-Pre 1999": {
+      "exam": "UPPSC PCS",
+      "year": "1999"
+    },
+    "U.P.P.C.S.-Pre 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "U.P.P.C.S.-Pre 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "U.P.P.C.S.-Pre 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "U.P.P.C.S.-Pre 2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "U.P.P.C.S.-Pre 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "U.P.P.C.S.-Pre 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "U.P.P.C.S.-Pre 2018": {
+      "exam": "UPPSC PCS",
+      "year": "2018"
+    },
+    "U.P.P.C.S.-Pre 2019": {
+      "exam": "UPPSC PCS",
+      "year": "2019"
+    },
+    "U.P.P.C.S.-Pre 2020": {
+      "exam": "UPPSC PCS",
+      "year": "2020"
+    },
+    "U.P.P.C.S.-Pre 2021": {
+      "exam": "UPPSC PCS",
+      "year": "2021"
+    },
+    "U.P.P.C.S.-Pre 2022": {
+      "exam": "UPPSC PCS",
+      "year": "2022"
+    },
+    "U.P.P.C.S.-Pre-Re-Exam 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "U.P.P.C.S.-Spl-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "U.P.R.O./A.R.O.-Mains 2013": {
+      "exam": "UP RO/ARO",
+      "year": "2013"
+    },
+    "U.P.U.D.A./L.D.A.-Pre 2001": {
+      "exam": "UP UDA/LDA",
+      "year": "2001"
+    },
+    "UK-Lower-Sub-Pre 2010": {
+      "exam": "Uttarakhand Lower Subordinate",
+      "year": "2010"
+    },
+    "UK-PCS 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "UK-PCS 2005": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2005"
+    },
+    "UK-PCS 2012": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2012"
+    },
+    "UK-PCS-Mains 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "UK-PCS-Mains 2006": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2006"
+    },
+    "UK-PCS-Pre 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "UK-PCS-Pre 2003": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2003"
+    },
+    "UK-PCS-Pre 2010": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2010"
+    },
+    "UK-PCS-Pre 2012": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2012"
+    },
+    "UK-PCS-Pre 2016": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2016"
+    },
+    "UK-PCS-Pre 2021": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2021"
+    },
+    "UK-PCS-Pre-2012": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2012"
+    },
+    "UK-PCS-Pre-2021": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2021"
+    },
+    "UP-BEO-Pre 2019": {
+      "exam": "UP BEO",
+      "year": "2019"
+    },
+    "UP-Lower(Spl.)(Pre)-2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Pre 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "UP-Lower-Spl-Pre 2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "UP-Lower-Spl-Pre-2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "UP-Lower-Sub(Pre)-2009": {
+      "exam": "UP Lower Subordinate",
+      "year": "2009"
+    },
+    "UP-Lower-Sub(Pre)-2013": {
+      "exam": "UP Lower Subordinate",
+      "year": "2013"
+    },
+    "UP-Lower-Sub(Pre)-2015": {
+      "exam": "UP Lower Subordinate",
+      "year": "2015"
+    },
+    "UP-Lower-Sub(Spl)(Pre) 2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Sub(Spl)(Pre)-2006": {
+      "exam": "UP Lower Subordinate",
+      "year": "2006"
+    },
+    "UP-Lower-Sub-(Pre) 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "UP-Lower-Sub-(Pre) 2013": {
+      "exam": "UP Lower Subordinate",
+      "year": "2013"
+    },
+    "UP-Lower-Sub-Mains 2013": {
+      "exam": "UP Lower Subordinate",
+      "year": "2013"
+    },
+    "UP-Lower-Sub-Mains 2015": {
+      "exam": "UP Lower Subordinate",
+      "year": "2015"
+    },
+    "UP-Lower-Sub-Pre 1996": {
+      "exam": "UP Lower Subordinate",
+      "year": "1996"
+    },
+    "UP-Lower-Sub-Pre 1998": {
+      "exam": "UP Lower Subordinate",
+      "year": "1998"
+    },
+    "UP-Lower-Sub-Pre 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "UP-Lower-Sub-Pre 2003": {
+      "exam": "UP Lower Subordinate",
+      "year": "2003"
+    },
+    "UP-Lower-Sub-Pre 2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Sub-Pre 2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "UP-Lower-Sub-Pre 2009": {
+      "exam": "UP Lower Subordinate",
+      "year": "2009"
+    },
+    "UP-Lower-Sub-Pre 2010": {
+      "exam": "UP Lower Subordinate",
+      "year": "2010"
+    },
+    "UP-Lower-Sub-Pre 2013": {
+      "exam": "UP Lower Subordinate",
+      "year": "2013"
+    },
+    "UP-Lower-Sub-Pre 2015": {
+      "exam": "UP Lower Subordinate",
+      "year": "2015"
+    },
+    "UP-Lower-Sub-Pre-1998": {
+      "exam": "UP Lower Subordinate",
+      "year": "1998"
+    },
+    "UP-Lower-Sub-Pre-2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Sub-Spl-2003": {
+      "exam": "UP Lower Subordinate",
+      "year": "2003"
+    },
+    "UP-Lower-Sub-Spl-Pre 2002": {
+      "exam": "UP Lower Subordinate",
+      "year": "2002"
+    },
+    "UP-Lower-Sub-Spl-Pre 2003": {
+      "exam": "UP Lower Subordinate",
+      "year": "2003"
+    },
+    "UP-Lower-Sub-Spl-Pre 2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Sub-Spl-Pre 2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "UP-Lower-Sub-Spl-Pre 2010": {
+      "exam": "UP Lower Subordinate",
+      "year": "2010"
+    },
+    "UP-Lower-Sub-Spl-Pre-2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Sub-Spl-Pre-2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "UP-Lower-Sub.-Pre 1998": {
+      "exam": "UP Lower Subordinate",
+      "year": "1998"
+    },
+    "UP-Lower-Sub.-Pre 2004": {
+      "exam": "UP Lower Subordinate",
+      "year": "2004"
+    },
+    "UP-Lower-Sub.-Pre 2008": {
+      "exam": "UP Lower Subordinate",
+      "year": "2008"
+    },
+    "UP-Lower-Sub.-Pre 2015": {
+      "exam": "UP Lower Subordinate",
+      "year": "2015"
+    },
+    "UP-PCS-Mains 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UP-PCS-Mains 2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UP-PCS-Mains 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UP-PCS-Mains 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UP-PCS-Mains 2006": {
+      "exam": "UPPSC PCS",
+      "year": "2006"
+    },
+    "UP-PCS-Mains 2007": {
+      "exam": "UPPSC PCS",
+      "year": "2007"
+    },
+    "UP-PCS-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UP-PCS-Mains 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UP-PCS-Mains 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UP-PCS-Mains 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UP-PCS-Mains 2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UP-PCS-Mains 2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UP-PCS-Mains 2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UP-PCS-Mains 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UP-PCS-Mains 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UP-PCS-Mains 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UP-PCS-Pre 1990": {
+      "exam": "UPPSC PCS",
+      "year": "1990"
+    },
+    "UP-PCS-Pre 1991": {
+      "exam": "UPPSC PCS",
+      "year": "1991"
+    },
+    "UP-PCS-Pre 1992": {
+      "exam": "UPPSC PCS",
+      "year": "1992"
+    },
+    "UP-PCS-Pre 1994": {
+      "exam": "UPPSC PCS",
+      "year": "1994"
+    },
+    "UP-PCS-Pre 1995": {
+      "exam": "UPPSC PCS",
+      "year": "1995"
+    },
+    "UP-PCS-Pre 1996": {
+      "exam": "UPPSC PCS",
+      "year": "1996"
+    },
+    "UP-PCS-Pre 1997": {
+      "exam": "UPPSC PCS",
+      "year": "1997"
+    },
+    "UP-PCS-Pre 1998": {
+      "exam": "UPPSC PCS",
+      "year": "1998"
+    },
+    "UP-PCS-Pre 1999": {
+      "exam": "UPPSC PCS",
+      "year": "1999"
+    },
+    "UP-PCS-Pre 2000": {
+      "exam": "UPPSC PCS",
+      "year": "2000"
+    },
+    "UP-PCS-Pre 2001": {
+      "exam": "UPPSC PCS",
+      "year": "2001"
+    },
+    "UP-PCS-Pre 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UP-PCS-Pre 2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UP-PCS-Pre 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UP-PCS-Pre 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UP-PCS-Pre 2006": {
+      "exam": "UPPSC PCS",
+      "year": "2006"
+    },
+    "UP-PCS-Pre 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UP-PCS-Pre 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UP-PCS-Pre 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UP-PCS-Pre 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UP-PCS-Pre 2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UP-PCS-Pre 2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UP-PCS-Pre 2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UP-PCS-Pre 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UP-PCS-Pre 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UP-PCS-Pre 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UP-PCS-Pre 2018": {
+      "exam": "UPPSC PCS",
+      "year": "2018"
+    },
+    "UP-PCS-Pre 2019": {
+      "exam": "UPPSC PCS",
+      "year": "2019"
+    },
+    "UP-PCS-Pre 2020": {
+      "exam": "UPPSC PCS",
+      "year": "2020"
+    },
+    "UP-PCS-Pre 2021": {
+      "exam": "UPPSC PCS",
+      "year": "2021"
+    },
+    "UP-PCS-Pre 2022": {
+      "exam": "UPPSC PCS",
+      "year": "2022"
+    },
+    "UP-PCS-Pre-Re-Exam 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UP-PCS-Spl-Mains 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UP-PCS-Spl-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UP-PCS-Spl-Pre 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UP-PSC-GIC 2010": {
+      "exam": "UP GIC",
+      "year": "2010"
+    },
+    "UP-RO-ARO-Pre 2017": {
+      "exam": "UP RO/ARO",
+      "year": "2017"
+    },
+    "UP-RO/ARO-(Mains) 2013": {
+      "exam": "UP RO/ARO",
+      "year": "2013"
+    },
+    "UP-RO/ARO-Mains 2013": {
+      "exam": "UP RO/ARO",
+      "year": "2013"
+    },
+    "UP-RO/ARO-Mains 2014": {
+      "exam": "UP RO/ARO",
+      "year": "2014"
+    },
+    "UP-RO/ARO-Mains 2016": {
+      "exam": "UP RO/ARO",
+      "year": "2016"
+    },
+    "UP-RO/ARO-Mains 2021": {
+      "exam": "UP RO/ARO",
+      "year": "2021"
+    },
+    "UP-RO/ARO-Pre 2014": {
+      "exam": "UP RO/ARO",
+      "year": "2014"
+    },
+    "UP-RO/ARO-Pre 2016": {
+      "exam": "UP RO/ARO",
+      "year": "2016"
+    },
+    "UP-RO/ARO-Pre 2017": {
+      "exam": "UP RO/ARO",
+      "year": "2017"
+    },
+    "UP-RO/ARO-Pre 2021": {
+      "exam": "UP RO/ARO",
+      "year": "2021"
+    },
+    "UP-UDA-LDA-Pre 2002": {
+      "exam": "UP UDA/LDA",
+      "year": "2002"
+    },
+    "UP-UDA/LDA-Mains 2010": {
+      "exam": "UP UDA/LDA",
+      "year": "2010"
+    },
+    "UP-UDA/LDA-Pre 2001": {
+      "exam": "UP UDA/LDA",
+      "year": "2001"
+    },
+    "UP-UDA/LDA-Pre 2002": {
+      "exam": "UP UDA/LDA",
+      "year": "2002"
+    },
+    "UP-UDA/LDA-Pre 2003": {
+      "exam": "UP UDA/LDA",
+      "year": "2003"
+    },
+    "UP-UDA/LDA-Pre 2010": {
+      "exam": "UP UDA/LDA",
+      "year": "2010"
+    },
+    "UP-UDA/LDA-Pre 2013": {
+      "exam": "UP UDA/LDA",
+      "year": "2013"
+    },
+    "UPBEO-Pre 2019": {
+      "exam": "UP BEO",
+      "year": "2019"
+    },
+    "UPBS-GIC 2010": {
+      "exam": "UP GIC",
+      "year": "2010"
+    },
+    "UPBS-RI 2014": {
+      "exam": "UP RI",
+      "year": "2014"
+    },
+    "UPP-S-C-(GIC) 2010": {
+      "exam": "UP GIC",
+      "year": "2010"
+    },
+    "UPPCS(Mains)-2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UPPCS(Mains)-2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS(Mains)-2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UPPCS(Mains)-2006": {
+      "exam": "UPPSC PCS",
+      "year": "2006"
+    },
+    "UPPCS(Mains)-2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS(Mains)-2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS(Mains)-2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS(Mains)-2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS(Mains)-2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UPPCS(Mains)-2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UPPCS(Mains)Spl-2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS(Pre)(Re-Exam)-2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS(Pre)-1996": {
+      "exam": "UPPSC PCS",
+      "year": "1996"
+    },
+    "UPPCS(Pre)-2001": {
+      "exam": "UPPSC PCS",
+      "year": "2001"
+    },
+    "UPPCS(Pre)-2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UPPCS(Pre)-2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UPPCS(Pre)-2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS(Pre)-2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPPCS(Pre)-2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS(Pre)-2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UPPCS(Pre)-2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS(Pre)-2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UPPCS(Pre)-2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS(Pre)-2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UPPCS(Pre)-2018": {
+      "exam": "UPPSC PCS",
+      "year": "2018"
+    },
+    "UPPCS(Pre)-2019": {
+      "exam": "UPPSC PCS",
+      "year": "2019"
+    },
+    "UPPCS(Pre)-2020": {
+      "exam": "UPPSC PCS",
+      "year": "2020"
+    },
+    "UPPCS(Pre)-2022": {
+      "exam": "UPPSC PCS",
+      "year": "2022"
+    },
+    "UPPCS(Pre)-2024": {
+      "exam": "UPPSC PCS",
+      "year": "2024"
+    },
+    "UPPCS(Spl)(Mains) 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS(Spl)(Mains) 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS(Spl)-Mains 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-(Mains) 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-(Mains) 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UPPCS-(Mains) 2006": {
+      "exam": "UPPSC PCS",
+      "year": "2006"
+    },
+    "UPPCS-(Mains) 2007": {
+      "exam": "UPPSC PCS",
+      "year": "2007"
+    },
+    "UPPCS-(Mains) 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-(Mains) 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-(Mains) 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPPCS-(Mains) 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS-(Mains) 2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS-(Mains) 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UPPCS-(Mains) 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UPPCS-(Pre) 1996": {
+      "exam": "UPPSC PCS",
+      "year": "1996"
+    },
+    "UPPCS-(Pre) 1998": {
+      "exam": "UPPSC PCS",
+      "year": "1998"
+    },
+    "UPPCS-(Pre) 2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UPPCS-(Pre) 2007": {
+      "exam": "UPPSC PCS",
+      "year": "2007"
+    },
+    "UPPCS-(Pre) 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-(Pre) 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-(Pre) 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS-(Pre) 2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UPPCS-(Pre) 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS-(Pre) 2020": {
+      "exam": "UPPSC PCS",
+      "year": "2020"
+    },
+    "UPPCS-(Pre) 2021": {
+      "exam": "UPPSC PCS",
+      "year": "2021"
+    },
+    "UPPCS-(Pre) 2024": {
+      "exam": "UPPSC PCS",
+      "year": "2024"
+    },
+    "UPPCS-(Spl.)(Mains) 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-(Spl.)(Mains) 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-Main 2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS-Mains 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UPPCS-Mains 2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UPPCS-Mains 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-Mains 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UPPCS-Mains 2006": {
+      "exam": "UPPSC PCS",
+      "year": "2006"
+    },
+    "UPPCS-Mains 2007": {
+      "exam": "UPPSC PCS",
+      "year": "2007"
+    },
+    "UPPCS-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-Mains 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-Mains 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPPCS-Mains 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS-Mains 2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UPPCS-Mains 2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS-Mains 2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UPPCS-Mains 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS-Mains 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UPPCS-Mains 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UPPCS-Mains-2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UPPCS-Mains-2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-Mains-2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPPCS-Mains-2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UPPCS-Pre 1990": {
+      "exam": "UPPSC PCS",
+      "year": "1990"
+    },
+    "UPPCS-Pre 1991": {
+      "exam": "UPPSC PCS",
+      "year": "1991"
+    },
+    "UPPCS-Pre 1992": {
+      "exam": "UPPSC PCS",
+      "year": "1992"
+    },
+    "UPPCS-Pre 1993": {
+      "exam": "UPPSC PCS",
+      "year": "1993"
+    },
+    "UPPCS-Pre 1994": {
+      "exam": "UPPSC PCS",
+      "year": "1994"
+    },
+    "UPPCS-Pre 1995": {
+      "exam": "UPPSC PCS",
+      "year": "1995"
+    },
+    "UPPCS-Pre 1996": {
+      "exam": "UPPSC PCS",
+      "year": "1996"
+    },
+    "UPPCS-Pre 1997": {
+      "exam": "UPPSC PCS",
+      "year": "1997"
+    },
+    "UPPCS-Pre 1998": {
+      "exam": "UPPSC PCS",
+      "year": "1998"
+    },
+    "UPPCS-Pre 1999": {
+      "exam": "UPPSC PCS",
+      "year": "1999"
+    },
+    "UPPCS-Pre 2000": {
+      "exam": "UPPSC PCS",
+      "year": "2000"
+    },
+    "UPPCS-Pre 2001": {
+      "exam": "UPPSC PCS",
+      "year": "2001"
+    },
+    "UPPCS-Pre 2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UPPCS-Pre 2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UPPCS-Pre 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-Pre 2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UPPCS-Pre 2006": {
+      "exam": "UPPSC PCS",
+      "year": "2006"
+    },
+    "UPPCS-Pre 2007": {
+      "exam": "UPPSC PCS",
+      "year": "2007"
+    },
+    "UPPCS-Pre 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-Pre 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-Pre 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPPCS-Pre 2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS-Pre 2012": {
+      "exam": "UPPSC PCS",
+      "year": "2012"
+    },
+    "UPPCS-Pre 2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS-Pre 2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UPPCS-Pre 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS-Pre 2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UPPCS-Pre 2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UPPCS-Pre 2018": {
+      "exam": "UPPSC PCS",
+      "year": "2018"
+    },
+    "UPPCS-Pre 2019": {
+      "exam": "UPPSC PCS",
+      "year": "2019"
+    },
+    "UPPCS-Pre 2020": {
+      "exam": "UPPSC PCS",
+      "year": "2020"
+    },
+    "UPPCS-Pre 2021": {
+      "exam": "UPPSC PCS",
+      "year": "2021"
+    },
+    "UPPCS-Pre 2022": {
+      "exam": "UPPSC PCS",
+      "year": "2022"
+    },
+    "UPPCS-Pre 2024": {
+      "exam": "UPPSC PCS",
+      "year": "2024"
+    },
+    "UPPCS-Pre-1992": {
+      "exam": "UPPSC PCS",
+      "year": "1992"
+    },
+    "UPPCS-Pre-1993": {
+      "exam": "UPPSC PCS",
+      "year": "1993"
+    },
+    "UPPCS-Pre-1994": {
+      "exam": "UPPSC PCS",
+      "year": "1994"
+    },
+    "UPPCS-Pre-1995": {
+      "exam": "UPPSC PCS",
+      "year": "1995"
+    },
+    "UPPCS-Pre-1996": {
+      "exam": "UPPSC PCS",
+      "year": "1996"
+    },
+    "UPPCS-Pre-1997": {
+      "exam": "UPPSC PCS",
+      "year": "1997"
+    },
+    "UPPCS-Pre-2002": {
+      "exam": "UPPSC PCS",
+      "year": "2002"
+    },
+    "UPPCS-Pre-2003": {
+      "exam": "UPPSC PCS",
+      "year": "2003"
+    },
+    "UPPCS-Pre-2005": {
+      "exam": "UPPSC PCS",
+      "year": "2005"
+    },
+    "UPPCS-Pre-2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-Pre-2011": {
+      "exam": "UPPSC PCS",
+      "year": "2011"
+    },
+    "UPPCS-Pre-2013": {
+      "exam": "UPPSC PCS",
+      "year": "2013"
+    },
+    "UPPCS-Pre-2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UPPCS-Pre-2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS-Pre-2016": {
+      "exam": "UPPSC PCS",
+      "year": "2016"
+    },
+    "UPPCS-Pre-2017": {
+      "exam": "UPPSC PCS",
+      "year": "2017"
+    },
+    "UPPCS-Pre-2018": {
+      "exam": "UPPSC PCS",
+      "year": "2018"
+    },
+    "UPPCS-Pre-2020": {
+      "exam": "UPPSC PCS",
+      "year": "2020"
+    },
+    "UPPCS-Pre-2021": {
+      "exam": "UPPSC PCS",
+      "year": "2021"
+    },
+    "UPPCS-Pre-2022": {
+      "exam": "UPPSC PCS",
+      "year": "2022"
+    },
+    "UPPCS-Pre-Re-Exam 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS-Re-Exam-Pre 2015": {
+      "exam": "UPPSC PCS",
+      "year": "2015"
+    },
+    "UPPCS-Spl-Mains 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-Spl-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-Spl-Mains 2009": {
+      "exam": "UPPSC PCS",
+      "year": "2009"
+    },
+    "UPPCS-Spl-Mains-2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-Spl-Mains-2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-Spl-Pre 1994": {
+      "exam": "UPPSC PCS",
+      "year": "1994"
+    },
+    "UPPCS-Spl-Pre 2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPCS-Spl-Pre 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPCS-Spl-Pre-2004": {
+      "exam": "UPPSC PCS",
+      "year": "2004"
+    },
+    "UPPSC-GIC 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPPSC-RI 2014": {
+      "exam": "UPPSC PCS",
+      "year": "2014"
+    },
+    "UPPSC-Spl-Mains 2008": {
+      "exam": "UPPSC PCS",
+      "year": "2008"
+    },
+    "UPPSC-Spl-Pre 2010": {
+      "exam": "UPPSC PCS",
+      "year": "2010"
+    },
+    "UPRO/ARO-Mains 2016": {
+      "exam": "UP RO/ARO",
+      "year": "2016"
+    },
+    "UPRO/ARO-Pre 2021": {
+      "exam": "UP RO/ARO",
+      "year": "2021"
+    },
+    "UPSC-CSE 1993": {
+      "exam": "UPSC CSE",
+      "year": "1993"
+    },
+    "UPSC-CSE 1994": {
+      "exam": "UPSC CSE",
+      "year": "1994"
+    },
+    "UPSC-CSE 1995": {
+      "exam": "UPSC CSE",
+      "year": "1995"
+    },
+    "UPSC-CSE 1996": {
+      "exam": "UPSC CSE",
+      "year": "1996"
+    },
+    "UPSC-CSE 1997": {
+      "exam": "UPSC CSE",
+      "year": "1997"
+    },
+    "UPSC-CSE 1998": {
+      "exam": "UPSC CSE",
+      "year": "1998"
+    },
+    "UPSC-CSE 1999": {
+      "exam": "UPSC CSE",
+      "year": "1999"
+    },
+    "UPSC-CSE 2000": {
+      "exam": "UPSC CSE",
+      "year": "2000"
+    },
+    "UPSC-CSE 2001": {
+      "exam": "UPSC CSE",
+      "year": "2001"
+    },
+    "UPSC-CSE 2002": {
+      "exam": "UPSC CSE",
+      "year": "2002"
+    },
+    "UPSC-CSE 2003": {
+      "exam": "UPSC CSE",
+      "year": "2003"
+    },
+    "UPSC-CSE 2004": {
+      "exam": "UPSC CSE",
+      "year": "2004"
+    },
+    "UPSC-CSE 2005": {
+      "exam": "UPSC CSE",
+      "year": "2005"
+    },
+    "UPSC-CSE 2006": {
+      "exam": "UPSC CSE",
+      "year": "2006"
+    },
+    "UPSC-CSE 2008": {
+      "exam": "UPSC CSE",
+      "year": "2008"
+    },
+    "UPSC-CSE 2009": {
+      "exam": "UPSC CSE",
+      "year": "2009"
+    },
+    "UPSC-CSE 2010": {
+      "exam": "UPSC CSE",
+      "year": "2010"
+    },
+    "UPSC-CSE 2011": {
+      "exam": "UPSC CSE",
+      "year": "2011"
+    },
+    "UPSC-CSE 2012": {
+      "exam": "UPSC CSE",
+      "year": "2012"
+    },
+    "UPSC-CSE 2013": {
+      "exam": "UPSC CSE",
+      "year": "2013"
+    },
+    "UPSC-CSE 2014": {
+      "exam": "UPSC CSE",
+      "year": "2014"
+    },
+    "UPSC-CSE 2015": {
+      "exam": "UPSC CSE",
+      "year": "2015"
+    },
+    "UPSC-CSE 2016": {
+      "exam": "UPSC CSE",
+      "year": "2016"
+    },
+    "UPSC-CSE 2017": {
+      "exam": "UPSC CSE",
+      "year": "2017"
+    },
+    "UPSC-CSE 2018": {
+      "exam": "UPSC CSE",
+      "year": "2018"
+    },
+    "UPSC-CSE 2019": {
+      "exam": "UPSC CSE",
+      "year": "2019"
+    },
+    "UPSC-CSE 2020": {
+      "exam": "UPSC CSE",
+      "year": "2020"
+    },
+    "UPSC-CSE 2021": {
+      "exam": "UPSC CSE",
+      "year": "2021"
+    },
+    "UPSC-CSE 2022": {
+      "exam": "UPSC CSE",
+      "year": "2022"
+    },
+    "UPSC-CSE 2023": {
+      "exam": "UPSC CSE",
+      "year": "2023"
+    },
+    "UPSC-CSE 2024": {
+      "exam": "UPSC CSE",
+      "year": "2024"
+    },
+    "UPSC-CSE 2025": {
+      "exam": "UPSC CSE",
+      "year": "2025"
+    },
+    "UPSC-CSE-Pre 1991": {
+      "exam": "UPSC CSE",
+      "year": "1991"
+    },
+    "UPSC-CSE-Pre 1992": {
+      "exam": "UPSC CSE",
+      "year": "1992"
+    },
+    "UPSC-CSE-Pre 1993": {
+      "exam": "UPSC CSE",
+      "year": "1993"
+    },
+    "UPSC-CSE-Pre 1994": {
+      "exam": "UPSC CSE",
+      "year": "1994"
+    },
+    "UPSC-CSE-Pre 1995": {
+      "exam": "UPSC CSE",
+      "year": "1995"
+    },
+    "UPSC-CSE-Pre 1996": {
+      "exam": "UPSC CSE",
+      "year": "1996"
+    },
+    "UPSC-CSE-Pre 1997": {
+      "exam": "UPSC CSE",
+      "year": "1997"
+    },
+    "UPSC-CSE-Pre 1998": {
+      "exam": "UPSC CSE",
+      "year": "1998"
+    },
+    "UPSC-CSE-Pre 1999": {
+      "exam": "UPSC CSE",
+      "year": "1999"
+    },
+    "UPSC-CSE-Pre 2000": {
+      "exam": "UPSC CSE",
+      "year": "2000"
+    },
+    "UPSC-CSE-Pre 2001": {
+      "exam": "UPSC CSE",
+      "year": "2001"
+    },
+    "UPSC-CSE-Pre 2002": {
+      "exam": "UPSC CSE",
+      "year": "2002"
+    },
+    "UPSC-CSE-Pre 2003": {
+      "exam": "UPSC CSE",
+      "year": "2003"
+    },
+    "UPSC-CSE-Pre 2004": {
+      "exam": "UPSC CSE",
+      "year": "2004"
+    },
+    "UPSC-CSE-Pre 2005": {
+      "exam": "UPSC CSE",
+      "year": "2005"
+    },
+    "UPSC-CSE-Pre 2006": {
+      "exam": "UPSC CSE",
+      "year": "2006"
+    },
+    "UPSC-CSE-Pre 2007": {
+      "exam": "UPSC CSE",
+      "year": "2007"
+    },
+    "UPSC-CSE-Pre 2008": {
+      "exam": "UPSC CSE",
+      "year": "2008"
+    },
+    "UPSC-CSE-Pre 2009": {
+      "exam": "UPSC CSE",
+      "year": "2009"
+    },
+    "UPSC-CSE-Pre 2010": {
+      "exam": "UPSC CSE",
+      "year": "2010"
+    },
+    "UPSC-CSE-Pre 2011": {
+      "exam": "UPSC CSE",
+      "year": "2011"
+    },
+    "UPSC-CSE-Pre 2012": {
+      "exam": "UPSC CSE",
+      "year": "2012"
+    },
+    "UPSC-CSE-Pre 2013": {
+      "exam": "UPSC CSE",
+      "year": "2013"
+    },
+    "UPSC-CSE-Pre 2014": {
+      "exam": "UPSC CSE",
+      "year": "2014"
+    },
+    "UPSC-CSE-Pre 2015": {
+      "exam": "UPSC CSE",
+      "year": "2015"
+    },
+    "UPSC-CSE-Pre 2016": {
+      "exam": "UPSC CSE",
+      "year": "2016"
+    },
+    "UPSC-CSE-Pre 2017": {
+      "exam": "UPSC CSE",
+      "year": "2017"
+    },
+    "UPSC-CSE-Pre 2018": {
+      "exam": "UPSC CSE",
+      "year": "2018"
+    },
+    "UPSC-CSE-Pre 2019": {
+      "exam": "UPSC CSE",
+      "year": "2019"
+    },
+    "UPSC-CSE-Pre 2020": {
+      "exam": "UPSC CSE",
+      "year": "2020"
+    },
+    "UPSC-CSE-Pre 2021": {
+      "exam": "UPSC CSE",
+      "year": "2021"
+    },
+    "UPSC-CSE-Pre 2022": {
+      "exam": "UPSC CSE",
+      "year": "2022"
+    },
+    "UPSC-CSE-Pre 2023": {
+      "exam": "UPSC CSE",
+      "year": "2023"
+    },
+    "UPSC-CSE-Pre 2024": {
+      "exam": "UPSC CSE",
+      "year": "2024"
+    },
+    "UPSC-CSE-Pre 2025": {
+      "exam": "UPSC CSE",
+      "year": "2025"
+    },
+    "UPSC-CSE-Pre-Pre 2010": {
+      "exam": "UPSC CSE",
+      "year": "2010"
+    },
+    "UPSC-CSE-Prelims 2021": {
+      "exam": "UPSC CSE",
+      "year": "2021"
+    },
+    "UPUDA-LDA-Pre 2001": {
+      "exam": "UP UDA/LDA",
+      "year": "2001"
+    },
+    "UPUDA/LDA-Pre 2002": {
+      "exam": "UP UDA/LDA",
+      "year": "2002"
+    },
+    "Uttarakhand-B.C.S.-Pre 2003": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2003"
+    },
+    "Uttarakhand-Lower-(Sub.)-(Pre) 2010": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2010"
+    },
+    "Uttarakhand-Lower-Sub-Pre 2010": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2010"
+    },
+    "Uttarakhand-P.C.S.(Pre)-2005": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2005"
+    },
+    "Uttarakhand-P.C.S.(Pre)-2006": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2006"
+    },
+    "Uttarakhand-P.C.S.(Pre)-2012": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2012"
+    },
+    "Uttarakhand-P.C.S.(Pre)-2016": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2016"
+    },
+    "Uttarakhand-P.C.S.-(Mains) 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "Uttarakhand-P.C.S.-(Pre) 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "Uttarakhand-P.C.S.-(Pre) 2005": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2005"
+    },
+    "Uttarakhand-P.C.S.-(Pre) 2016": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2016"
+    },
+    "Uttarakhand-P.C.S.-Mains 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "Uttarakhand-P.C.S.-Mains 2006": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2006"
+    },
+    "Uttarakhand-P.C.S.-Pre 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "Uttarakhand-P.C.S.-Pre 2003": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2003"
+    },
+    "Uttarakhand-P.C.S.-Pre 2004": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2004"
+    },
+    "Uttarakhand-P.C.S.-Pre 2005": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2005"
+    },
+    "Uttarakhand-P.C.S.-Pre 2006": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2006"
+    },
+    "Uttarakhand-P.C.S.-Pre 2010": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2010"
+    },
+    "Uttarakhand-P.C.S.-Pre 2012": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2012"
+    },
+    "Uttarakhand-P.C.S.-Pre 2016": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2016"
+    },
+    "Uttarakhand-PCS(Pre)-2016": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2016"
+    },
+    "Uttarakhand-PCS(Pre)-2021": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2021"
+    },
+    "Uttarakhand-PCS-Mains 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "Uttarakhand-PCS-Mains 2006": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2006"
+    },
+    "Uttarakhand-PCS-Pre 2002": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2002"
+    },
+    "Uttarakhand-PCS-Pre 2005": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2005"
+    },
+    "Uttarakhand-PCS-Pre 2006": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2006"
+    },
+    "Uttarakhand-PCS-Pre 2010": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2010"
+    },
+    "Uttarakhand-PCS-Pre 2012": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2012"
+    },
+    "Uttarakhand-PCS-Pre 2016": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2016"
+    },
+    "Uttarakhand-PCS-Pre 2021": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2021"
+    },
+    "Uttrakhand-PCS-Pre 2021": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2021"
+    },
+    "Uttrakhand-UDA/LDA-Mains 2007": {
+      "exam": "UKPSC / Uttarakhand PCS",
+      "year": "2007"
+    }
+  },
+  "subjects": [
+    {
+      "name": "AMAC",
+      "count": 1481
+    },
+    {
+      "name": "Science and Tech",
+      "count": 1288
+    },
+    {
+      "name": "Modern History",
+      "count": 1246
+    },
+    {
+      "name": "Geography",
+      "count": 1167
+    },
+    {
+      "name": "Polity",
+      "count": 1164
+    },
+    {
+      "name": "Economics",
+      "count": 1078
+    },
+    {
+      "name": "Environment",
+      "count": 615
+    }
+  ],
+  "exams": [
+    {
+      "name": "UPSC CSE",
+      "count": 2308
+    },
+    {
+      "name": "UPPSC PCS",
+      "count": 2080
+    },
+    {
+      "name": "CDS",
+      "count": 1123
+    },
+    {
+      "name": "CAPF",
+      "count": 696
+    },
+    {
+      "name": "BPSC",
+      "count": 489
+    },
+    {
+      "name": "RAS/RTS",
+      "count": 279
+    },
+    {
+      "name": "MPPSC",
+      "count": 266
+    },
+    {
+      "name": "CGPSC / Chhattisgarh PCS",
+      "count": 214
+    },
+    {
+      "name": "UP Lower Subordinate",
+      "count": 213
+    },
+    {
+      "name": "UKPSC / Uttarakhand PCS",
+      "count": 211
+    },
+    {
+      "name": "JPSC / Jharkhand PCS",
+      "count": 112
+    },
+    {
+      "name": "UP RO/ARO",
+      "count": 24
+    },
+    {
+      "name": "UP UDA/LDA",
+      "count": 15
+    },
+    {
+      "name": "UP GIC",
+      "count": 3
+    },
+    {
+      "name": "UP BEO",
+      "count": 2
+    },
+    {
+      "name": "Uttarakhand Lower Subordinate",
+      "count": 1
+    },
+    {
+      "name": "UP RI",
+      "count": 1
+    }
+  ],
+  "years": [
+    "1990",
+    "1991",
+    "1992",
+    "1993",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "subjectTopics": {
+    "AMAC": [
+      "PREHISTORIC TO MAURYAN",
+      "ARCHITECTURE AND PAINTINGS",
+      "INDIAN LITERATURE AND PERFORMING ARTS",
+      "PHILOSOPHIES",
+      "MISCELLANEOUS",
+      "EARLIER MEDIEVAL HISTORY AND DELHI SULTANATE",
+      "POST MAURYAN TO POST GUPTAS",
+      "MUGHALS AND REGIONAL STATES"
+    ],
+    "Environment": [
+      "NATIONAL AND INTERNATIONAL EFFORTS TO COMBAT CLIMATE CHANGE",
+      "ENVIRONMENT AND ECOLOGY",
+      "CLIMATE CHANGE",
+      "BIODIVERSITY",
+      "ENVIRONMENTAL POLUTION"
+    ],
+    "Economics": [
+      "AGRICULTURE",
+      "BASICS OF ECONOMICS",
+      "EXTERNAL SECTOR AND INTERNATIONAL INSTITUTIONS",
+      "PUBLIC FINANCE",
+      "BANKING AND CAPITAL MARKET",
+      "DEVELOPMENTAL ECONOMICS",
+      "SECTORS OF ECONOMY"
+    ],
+    "Science and Tech": [
+      "APPLIED SCIENCE",
+      "GENERAL SCIENCE"
+    ],
+    "Modern History": [
+      "GOVERNANCE AND OTHER ASPECTS",
+      "ADVENT OF EUROPEANS AND CONSOLIDATION OF BRITISH EMPIRE IN INDIA",
+      "MISCELLANEOUS",
+      "REBELLIONS AND REFORM MOVEMENTS",
+      "EMERGENCE OF INDIAN NATIONALISM [1857-1919]",
+      "ERA OF MASS NATIONALISM [1919 - 1947]"
+    ],
+    "Polity": [
+      "INTRODUCTION TO THE CONSTITUTION",
+      "SYSTEM OF GOVERNMENT",
+      "UNION AND STATE LEGISLATURE",
+      "CENTRE AND STATE EXECUTIVES",
+      "FOUNDATIONS OF THE CONSTITUTION",
+      "MISCELLANEOUS",
+      "JUDICIARY",
+      "LOCAL GOVERNMENT - UNION TERRITORIES - SPECIAL STATUS AREAS",
+      "CONSTITUTIONAL AND NON-CONSTITUTIONAL BODIES"
+    ],
+    "Geography": [
+      "UNIVERSE & THE EVOLUTION OF EARTH",
+      "GEOMORPOLOGY",
+      "OCEANOGRAPHY",
+      "CLIMATOLOGY",
+      "ECONOMIC & HUMAN GEOGRAPHY (INDIA AND WORLD)",
+      "INDIA PHYSICAL ENVIRONMENT",
+      "MISCELLANEOUS"
+    ]
+  },
+  "topicCount": {
+    "PREHISTORIC TO MAURYAN": 247,
+    "ARCHITECTURE AND PAINTINGS": 216,
+    "INDIAN LITERATURE AND PERFORMING ARTS": 217,
+    "PHILOSOPHIES": 161,
+    "NATIONAL AND INTERNATIONAL EFFORTS TO COMBAT CLIMATE CHANGE": 105,
+    "AGRICULTURE": 267,
+    "APPLIED SCIENCE": 385,
+    "GOVERNANCE AND OTHER ASPECTS": 166,
+    "ADVENT OF EUROPEANS AND CONSOLIDATION OF BRITISH EMPIRE IN INDIA": 88,
+    "MISCELLANEOUS": 759,
+    "GENERAL SCIENCE": 903,
+    "REBELLIONS AND REFORM MOVEMENTS": 198,
+    "EMERGENCE OF INDIAN NATIONALISM [1857-1919]": 189,
+    "ERA OF MASS NATIONALISM [1919 - 1947]": 283,
+    "EARLIER MEDIEVAL HISTORY AND DELHI SULTANATE": 182,
+    "INTRODUCTION TO THE CONSTITUTION": 138,
+    "POST MAURYAN TO POST GUPTAS": 129,
+    "BASICS OF ECONOMICS": 154,
+    "UNIVERSE & THE EVOLUTION OF EARTH": 101,
+    "GEOMORPOLOGY": 115,
+    "ENVIRONMENT AND ECOLOGY": 98,
+    "OCEANOGRAPHY": 42,
+    "CLIMATOLOGY": 185,
+    "CLIMATE CHANGE": 81,
+    "ECONOMIC & HUMAN GEOGRAPHY (INDIA AND WORLD)": 188,
+    "BIODIVERSITY": 197,
+    "INDIA PHYSICAL ENVIRONMENT": 332,
+    "EXTERNAL SECTOR AND INTERNATIONAL INSTITUTIONS": 135,
+    "SYSTEM OF GOVERNMENT": 69,
+    "UNION AND STATE LEGISLATURE": 243,
+    "CENTRE AND STATE EXECUTIVES": 151,
+    "FOUNDATIONS OF THE CONSTITUTION": 197,
+    "JUDICIARY": 103,
+    "LOCAL GOVERNMENT - UNION TERRITORIES - SPECIAL STATUS AREAS": 63,
+    "CONSTITUTIONAL AND NON-CONSTITUTIONAL BODIES": 97,
+    "PUBLIC FINANCE": 93,
+    "BANKING AND CAPITAL MARKET": 197,
+    "DEVELOPMENTAL ECONOMICS": 135,
+    "SECTORS OF ECONOMY": 97,
+    "MUGHALS AND REGIONAL STATES": 199,
+    "ENVIRONMENTAL POLUTION": 134
+  }
+}
