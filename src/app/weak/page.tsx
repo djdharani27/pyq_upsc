@@ -11,6 +11,8 @@ import {
   XCircle,
   ListFilter,
   Eraser,
+  BookOpen,
+  Bookmark,
 } from "lucide-react";
 import type { Question, WeakAttempt } from "@/types";
 import { fetchQuestions } from "@/lib/questions";
@@ -304,7 +306,11 @@ export default function WeakPage() {
 
           {mode === "review" && (
             <div className="flex flex-col gap-4">
-              {filtered.map(({ attempt, question }) => (
+              {filtered.map(({ attempt, question }) => {
+                const subject =
+                  question.subject || attempt.subject || "Unknown";
+                const topic = question.topic || attempt.topic || "—";
+                return (
                 <div
                   key={attempt.questionId}
                   className="relative rounded-2xl border border-border bg-card p-4 shadow-sm sm:p-5"
@@ -344,6 +350,25 @@ export default function WeakPage() {
                     </button>
                   </div>
 
+                  {/* Subject + Topic (always visible on /weak) */}
+                  <div className="mb-3 flex flex-wrap items-center gap-2 border-b border-border/60 pb-3">
+                    <span className="inline-flex items-center gap-1.5 rounded-lg bg-primary/10 px-2.5 py-1 text-xs font-bold text-primary">
+                      <BookOpen className="h-3.5 w-3.5" />
+                      Subject: {subject}
+                    </span>
+                    <span className="inline-flex items-center gap-1.5 rounded-lg bg-secondary px-2.5 py-1 text-xs font-bold text-foreground">
+                      <Bookmark className="h-3.5 w-3.5 text-muted-fg" />
+                      Topic: {topic}
+                    </span>
+                    {(question.exam || attempt.exam) && (
+                      <span className="rounded-lg bg-secondary px-2.5 py-1 text-xs font-medium text-muted-fg">
+                        {question.exam || attempt.exam}
+                        {(question.year || attempt.year) &&
+                          ` · ${question.year || attempt.year}`}
+                      </span>
+                    )}
+                  </div>
+
                   <QuestionCard
                     question={question}
                     selectedOption={
@@ -374,7 +399,8 @@ export default function WeakPage() {
                     </button>
                   </div>
                 </div>
-              ))}
+                );
+              })}
               {filtered.length === 0 && (
                 <div className="no-select rounded-2xl border border-border bg-card p-6 text-center text-sm text-muted-fg">
                   No weak questions match this subject filter.
@@ -387,20 +413,32 @@ export default function WeakPage() {
             <div>
               {!testDone && testCurrent ? (
                 <>
-                  <div className="mb-4 flex items-center justify-between text-sm text-muted-fg">
-                    <span>
-                      Question{" "}
-                      <span className="font-semibold text-foreground">
-                        {testIndex + 1}
-                      </span>{" "}
-                      / {testQuestions.length}
-                    </span>
-                    <span>
+                  <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+                    <div>
+                      <div className="text-sm text-muted-fg">
+                        Question{" "}
+                        <span className="font-semibold text-foreground">
+                          {testIndex + 1}
+                        </span>{" "}
+                        / {testQuestions.length}
+                      </div>
+                      <div className="mt-1.5 flex flex-wrap items-center gap-2 text-xs">
+                        <span className="inline-flex items-center gap-1 rounded-lg bg-primary/10 px-2 py-0.5 font-bold text-primary">
+                          <BookOpen className="h-3 w-3" />
+                          {testCurrent.subject || "Unknown"}
+                        </span>
+                        <span className="inline-flex items-center gap-1 rounded-lg bg-secondary px-2 py-0.5 font-bold text-foreground">
+                          <Bookmark className="h-3 w-3 text-muted-fg" />
+                          {testCurrent.topic || "—"}
+                        </span>
+                      </div>
+                    </div>
+                    <div className="text-sm text-muted-fg">
                       Wrong this session:{" "}
                       <span className="font-semibold text-destructive">
                         {testWrongIds.size}
                       </span>
-                    </span>
+                    </div>
                   </div>
                   <QuestionCard
                     question={testCurrent}
